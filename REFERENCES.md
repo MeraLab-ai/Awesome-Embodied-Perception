@@ -202,7 +202,7 @@ Xie, L. · Xiang, C. · Yu, Z. · Xu, G. · Yang, Z. · Cai, D. · He, X.
 
 In: Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, pp. 12460–12467 (2020)
 
-[Paper](https://doi.org/10.1609/aaai.v34i07.6933) · Text [§3.1](CHAPTERS.md#sec-3-1) · Figure 2 [§3.1](METHODS.md#sec-3-1)
+[Paper](https://doi.org/10.1609/aaai.v34i07.6933) · [Code](https://github.com/ZJULearning/PI-RCNN) · Text [§3.1](CHAPTERS.md#sec-3-1) · Figure 2 [§3.1](METHODS.md#sec-3-1)
 
 <a name="ref-021"></a>
 
@@ -212,7 +212,7 @@ Vora, S. · Lang, A.H. · Helou, B. · Beijbom, O.
 
 In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4604–4612 (2020)
 
-[Paper](https://doi.org/10.1109/cvpr42600.2020.00466) · Text [§3.1](CHAPTERS.md#sec-3-1) · Figure 2 [§3.1](METHODS.md#sec-3-1)
+[Paper](https://doi.org/10.1109/cvpr42600.2020.00466) · [Project](https://motional.com/news/pointpainting-sequential-fusion-3d-object-detection) · Text [§3.1](CHAPTERS.md#sec-3-1) · Figure 2 [§3.1](METHODS.md#sec-3-1)
 
 <a name="ref-022"></a>
 
@@ -232,7 +232,7 @@ Yin, T. · Zhou, X. · Krähenbühl, P.
 
 Advances in Neural Information Processing Systems 34, 16494–16507 (2021)
 
-[Paper](https://papers.nips.cc/paper/2021/hash/895daa408f494ad58006c47a30f51c1f-Abstract.html) · Text [§3.1](CHAPTERS.md#sec-3-1) · Figure 2 [§3.1](METHODS.md#sec-3-1)
+[Paper](https://papers.nips.cc/paper/2021/hash/895daa408f494ad58006c47a30f51c1f-Abstract.html) · [Code](https://github.com/tianweiy/MVP) · Text [§3.1](CHAPTERS.md#sec-3-1) · Figure 2 [§3.1](METHODS.md#sec-3-1)
 
 <a name="ref-024"></a>
 
@@ -252,7 +252,7 @@ Li, Y. · Yu, A.W. · Meng, T. · Caine, B. · Ngiam, J. · Peng, D. · Shen, J.
 
 In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 17182–17191 (2022)
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_DeepFusion_Lidar-Camera_Deep_Fusion_for_Multi-Modal_3D_Object_Detection_CVPR_2022_paper.html) · Text [§3.2](CHAPTERS.md#sec-3-2), [§7.1.1](CHAPTERS.md#sec-7-1-1) · Figure 2 [§3.1](METHODS.md#sec-3-1)
+[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_DeepFusion_Lidar-Camera_Deep_Fusion_for_Multi-Modal_3D_Object_Detection_CVPR_2022_paper.html) · [Code](https://github.com/tensorflow/lingvo/blob/master/lingvo/tasks/car/deep_fusion.py) · Text [§3.2](CHAPTERS.md#sec-3-2), [§7.1.1](CHAPTERS.md#sec-7-1-1) · Figure 2 [§3.1](METHODS.md#sec-3-1)
 
 <a name="ref-026"></a>
 
@@ -282,7 +282,7 @@ Zhu, H. · Deng, J. · Zhang, Y. · Ji, J. · Mao, Q. · Li, H. · Zhang, Y.
 
 IEEE Transactions on Multimedia 25, 5291–5304 (2022)
 
-[Paper](https://doi.org/10.1109/tmm.2022.3189778) · Text [§3.2](CHAPTERS.md#sec-3-2) · Figure 2 [§3.2](METHODS.md#sec-3-2)
+[Paper](https://doi.org/10.1109/tmm.2022.3189778) · [Code](https://github.com/zhukevkesky/VPFNet) · Text [§3.2](CHAPTERS.md#sec-3-2) · Figure 2 [§3.2](METHODS.md#sec-3-2)
 
 <a name="ref-029"></a>
 
@@ -292,7 +292,7 @@ Wang, C. · Ma, C. · Zhu, M. · Yang, X.
 
 In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 11794– 11803 (2021)
 
-[Paper](https://doi.org/10.1109/cvpr46437.2021.01162) · Text [§3.1](CHAPTERS.md#sec-3-1), [§7.1.1](CHAPTERS.md#sec-7-1-1) · Figure 2 [§3.2](METHODS.md#sec-3-2)
+[Paper](https://doi.org/10.1109/cvpr46437.2021.01162) · [Code](https://github.com/VISION-SJTU/PointAugmenting) · Text [§3.1](CHAPTERS.md#sec-3-1), [§7.1.1](CHAPTERS.md#sec-7-1-1) · Figure 2 [§3.2](METHODS.md#sec-3-2)
 
 <a name="ref-030"></a>
 
@@ -302,7 +302,7 @@ Li, Y. · Qi, X. · Chen, Y. · Wang, L. · Li, Z. · Sun, J. · Jia, J.
 
 In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 1120–1129 (2022)
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Voxel_Field_Fusion_for_3D_Object_Detection_CVPR_2022_paper.html) · Text [§3.2](CHAPTERS.md#sec-3-2) · Figure 2 [§3.2](METHODS.md#sec-3-2)
+[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Voxel_Field_Fusion_for_3D_Object_Detection_CVPR_2022_paper.html) · [Code](https://github.com/JIA-Lab-research/VFF) · Text [§3.2](CHAPTERS.md#sec-3-2) · Figure 2 [§3.2](METHODS.md#sec-3-2)
 
 <a name="ref-031"></a>
 
@@ -312,7 +312,7 @@ Hughes, N. · Chang, Y. · Hu, S. · Talak, R. · Abdulhai, R. · Strader, J. ·
 
 The International Journal of Robotics Research 43(10), 1457–1505 (2024)
 
-[Paper](https://doi.org/10.1177/02783649241229725) · Text [§3.2](CHAPTERS.md#sec-3-2) · Figure 2 [§3.2](METHODS.md#sec-3-2)
+[Paper](https://doi.org/10.1177/02783649241229725) · [Code](https://github.com/MIT-SPARK/Hydra) · Text [§3.2](CHAPTERS.md#sec-3-2) · Figure 2 [§3.2](METHODS.md#sec-3-2)
 
 <a name="ref-032"></a>
 
@@ -332,7 +332,7 @@ Chen, Z. · Li, Z. · Zhang, S. · Fang, L. · Jiang, Q. · Zhao, F.
 
 In: European Conference on Computer Vision, pp. 628–644 (2022). Springer
 
-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20074-8_36) · Text [§3.2](CHAPTERS.md#sec-3-2) · Figure 2 [§3.2](METHODS.md#sec-3-2)
+[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20074-8_36) · [Code](https://github.com/zehuichen123/AutoAlignV2) · Text [§3.2](CHAPTERS.md#sec-3-2) · Figure 2 [§3.2](METHODS.md#sec-3-2)
 
 <a name="ref-034"></a>
 
@@ -352,7 +352,7 @@ Li, Y. · Chen, Y. · Qi, X. · Li, Z. · Sun, J. · Jia, J.
 
 Advances in Neural Information Processing Systems 35, 18442–18455 (2022)
 
-[Paper](https://papers.nips.cc/paper_files/paper/2022/hash/752df938681b2cf15e5fc9689f0bcf3a-Abstract-Conference.html) · Text [§3.2](CHAPTERS.md#sec-3-2) · Figure 2 [§3.2](METHODS.md#sec-3-2)
+[Paper](https://papers.nips.cc/paper_files/paper/2022/hash/752df938681b2cf15e5fc9689f0bcf3a-Abstract-Conference.html) · [Code](https://github.com/JIA-Lab-research/UVTR) · Text [§3.2](CHAPTERS.md#sec-3-2) · Figure 2 [§3.2](METHODS.md#sec-3-2)
 
 <a name="ref-036"></a>
 
@@ -372,7 +372,7 @@ Wu, X. · Peng, L. · Yang, H. · Xie, L. · Huang, C. · Deng, C. · Liu, H. ·
 
 In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 5418– 5427 (2022)
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Sparse_Fuse_Dense_Towards_High_Quality_3D_Detection_With_Depth_CVPR_2022_paper.html) · Text [§3.3](CHAPTERS.md#sec-3-3) · Figure 2 [§3.2](METHODS.md#sec-3-2)
+[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Sparse_Fuse_Dense_Towards_High_Quality_3D_Detection_With_Depth_CVPR_2022_paper.html) · [Code](https://github.com/LittlePey/SFD) · Text [§3.3](CHAPTERS.md#sec-3-3) · Figure 2 [§3.2](METHODS.md#sec-3-2)
 
 <a name="ref-038"></a>
 
@@ -382,7 +382,7 @@ Ku, J. · Mozifian, M. · Lee, J. · Harakeh, A. · Waslander, S.L.
 
 In: 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 1–8 (2018). IEEE
 
-[Paper](https://arxiv.org/abs/1712.02294) · Text [§3.3](CHAPTERS.md#sec-3-3) · Figure 2 [§3.3](METHODS.md#sec-3-3)
+[Paper](https://arxiv.org/abs/1712.02294) · [Code](https://github.com/kujason/avod) · Text [§3.3](CHAPTERS.md#sec-3-3) · Figure 2 [§3.3](METHODS.md#sec-3-3)
 
 <a name="ref-039"></a>
 
@@ -432,7 +432,7 @@ Zhang, L. · Zhu, X. · Chen, X. · Yang, X. · Lei, Z. · Liu, Z.
 
 In: Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 5127–5137 (2019)
 
-[Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Weakly_Aligned_Cross-Modal_Learning_for_Multispectral_Pedestrian_Detection_ICCV_2019_paper.html) · Text [§3.3](CHAPTERS.md#sec-3-3) · Figure 2 [§3.3](METHODS.md#sec-3-3)
+[Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Weakly_Aligned_Cross-Modal_Learning_for_Multispectral_Pedestrian_Detection_ICCV_2019_paper.html) · [Code](https://github.com/luzhang16/AR-CNN) · Text [§3.3](CHAPTERS.md#sec-3-3) · Figure 2 [§3.3](METHODS.md#sec-3-3)
 
 <a name="ref-044"></a>
 
@@ -452,7 +452,7 @@ Zhang, H. · Fromont, E. · Lef`evre, S. · Avignon, B.
 
 In: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 72–80 (2021)
 
-[Paper](https://doi.org/10.1109/wacv48630.2021.00012) · Figure 2 [§3.3](METHODS.md#sec-3-3)
+[Paper](https://doi.org/10.1109/wacv48630.2021.00012) · [Code](https://github.com/zhanghengdev/GAFF) · Figure 2 [§3.3](METHODS.md#sec-3-3)
 
 <a name="ref-046"></a>
 
@@ -462,7 +462,7 @@ Zhao, T. · Yuan, M. · Jiang, F. · Wang, N. · Wei, X.
 
 arXiv preprint arXiv:2401.10731 (2024)
 
-[Paper](https://arxiv.org/abs/2401.10731) · Text [§3.4](CHAPTERS.md#sec-3-4) · Figure 2 [§3.3](METHODS.md#sec-3-3)
+[Paper](https://arxiv.org/abs/2401.10731) · [Code](https://github.com/Zhao-Tian-yi/RSDet) · Text [§3.4](CHAPTERS.md#sec-3-4) · Figure 2 [§3.3](METHODS.md#sec-3-3)
 
 <a name="ref-047"></a>
 
@@ -492,7 +492,7 @@ Liu, Z. · Huang, T. · Li, B. · Chen, X. · Wang, X. · Bai, X.
 
 IEEE transactions on pattern analysis and machine intelligence 45(7), 8324–8341 (2022)
 
-[Paper](https://arxiv.org/abs/2112.11088) · Text [§3.4](CHAPTERS.md#sec-3-4) · Figure 2 [§3.4](METHODS.md#sec-3-4)
+[Paper](https://arxiv.org/abs/2112.11088) · [Code](https://github.com/happinesslz/EPNetV2) · Text [§3.4](CHAPTERS.md#sec-3-4) · Figure 2 [§3.4](METHODS.md#sec-3-4)
 
 <a name="ref-050"></a>
 
@@ -522,7 +522,7 @@ Mahmoud, A. · Hu, J.S. · Waslander, S.L.
 
 In: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 663–672 (2023)
 
-[Paper](https://doi.org/10.1109/wacv56688.2023.00073) · Text [§3.4](CHAPTERS.md#sec-3-4) · Figure 2 [§3.4](METHODS.md#sec-3-4)
+[Paper](https://doi.org/10.1109/wacv56688.2023.00073) · [Project](https://www.trailab.utias.utoronto.ca/3d-object-detection#:~:text=DVF%3A%20Dense%20Voxel%20Fusion%20for%203D%20Object%20Detection) · Text [§3.4](CHAPTERS.md#sec-3-4) · Figure 2 [§3.4](METHODS.md#sec-3-4)
 
 <a name="ref-053"></a>
 
@@ -532,7 +532,7 @@ Li, X. · Ma, T. · Hou, Y. · Shi, B. · Yang, Y. · Liu, Y. · Wu, X. · Chen,
 
 In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 17524–17534 (2023)
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_LoGoNet_Towards_Accurate_3D_Object_Detection_With_Local-to-Global_Cross-Modal_Fusion_CVPR_2023_paper.html) · Text [§3.4](CHAPTERS.md#sec-3-4) · Figure 2 [§3.4](METHODS.md#sec-3-4)
+[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_LoGoNet_Towards_Accurate_3D_Object_Detection_With_Local-to-Global_Cross-Modal_Fusion_CVPR_2023_paper.html) · [Code](https://github.com/PJLab-ADG/LoGoNet) · Text [§3.4](CHAPTERS.md#sec-3-4) · Figure 2 [§3.4](METHODS.md#sec-3-4)
 
 <a name="ref-054"></a>
 
@@ -572,7 +572,7 @@ Dong, W. · Zhu, H. · Lin, S. · Luo, X. · Shen, Y. · Liu, X. · Zhang, J. ·
 
 arXiv preprint arXiv:2404.09146 (2024)
 
-[Paper](https://arxiv.org/abs/2404.09146) · Text [§3.4](CHAPTERS.md#sec-3-4) · Figure 2 [§3.4](METHODS.md#sec-3-4)
+[Paper](https://arxiv.org/abs/2404.09146) · [Code](https://github.com/EhanDong/Fusion-Mamba) · Text [§3.4](CHAPTERS.md#sec-3-4) · Figure 2 [§3.4](METHODS.md#sec-3-4)
 
 <a name="ref-058"></a>
 
@@ -592,7 +592,7 @@ Wolters, P. · Gilg, J. · Teepe, T. · Herzog, F. · Fent, F. · Rigoll, G.
 
 In: 2026 IEEE International Conference on Robotics and Automation (ICRA), pp. 6581–6588 (2026). IEEE
 
-[Paper](https://doi.org/10.1109/ICRA57385.2026.11696130) · Text [§4.1](CHAPTERS.md#sec-4-1) · Figure 2 [§4.1](METHODS.md#sec-4-1)
+[Paper](https://doi.org/10.1109/ICRA57385.2026.11696130) · [Project](https://phi-wol.github.io/sparc/) · Text [§4.1](CHAPTERS.md#sec-4-1) · Figure 2 [§4.1](METHODS.md#sec-4-1)
 
 <a name="ref-060"></a>
 
@@ -622,7 +622,7 @@ Xu, J. · Wang, S. · Ni, Z. · Hu, C. · Yang, S. · Zhu, J. · Li, Q.
 
 In: 2025 IEEE/CVF International Conference on Computer Vision (ICCV), pp. 28535– 28545 (2025). IEEE
 
-[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Xu_SAM4D_Segment_Anything_in_Camera_and_LiDAR_Streams_ICCV_2025_paper.html) · Text [§4.1](CHAPTERS.md#sec-4-1) · Figure 2 [§4.1](METHODS.md#sec-4-1)
+[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Xu_SAM4D_Segment_Anything_in_Camera_and_LiDAR_Streams_ICCV_2025_paper.html) · [Code](https://github.com/CN-ADLab/SAM4D) · Text [§4.1](CHAPTERS.md#sec-4-1) · Figure 2 [§4.1](METHODS.md#sec-4-1)
 
 <a name="ref-063"></a>
 
@@ -652,7 +652,7 @@ Kim, J. · Seong, M. · Choi, J.W.
 
 Advances in Neural Information Processing Systems 37, 108625–108648 (2024)
 
-[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c49a28241640407b23bba8f2495f4bc9-Abstract-Conference.html) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
+[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c49a28241640407b23bba8f2495f4bc9-Abstract-Conference.html) · [Code](https://github.com/mjseong0414/CRT-Fusion) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
 
 <a name="ref-066"></a>
 
@@ -662,7 +662,7 @@ Chu, X. · Deng, J. · You, G. · Duan, Y. · Li, H. · Zhang, Y.
 
 In: 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 17081–17091 (2025). IEEE
 
-[Paper](https://doi.org/10.1109/CVPR52734.2025.01592) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
+[Paper](https://doi.org/10.1109/CVPR52734.2025.01592) · [Code](https://github.com/cxmomo/RaCFormer) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
 
 <a name="ref-067"></a>
 
@@ -692,7 +692,7 @@ Wang, R. · Song, Y. · Cai, Y. · Liu, L.
 
 In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 7567–7576 (2026)
 
-[Project page](https://stac-3r.github.io/) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
+[Project page](https://stac-3r.github.io/) · [Code](https://github.com/Rainzor/STAC) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
 
 <a name="ref-070"></a>
 
@@ -702,7 +702,7 @@ Wang, D. · Haag, H. · Herraez, D.C. · May, S. · Stachniss, C. · Nüchter, A
 
 IEEE Robotics and Automation Letters (2025)
 
-[Paper](https://doi.org/10.1109/LRA.2025.3595071) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
+[Paper](https://doi.org/10.1109/LRA.2025.3595071) · [Project](https://github.com/Wayne-DWA/Doppler-SLAM) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
 
 <a name="ref-071"></a>
 
@@ -722,7 +722,7 @@ McCormac, J. · Handa, A. · Davison, A. · Leutenegger, S.
 
 In: 2017 IEEE International Conference on Robotics and Automation (ICRA), pp. 4628–4635 (2017). IEEE
 
-[Paper](https://doi.org/10.1109/ICRA.2017.7989538) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
+[Paper](https://doi.org/10.1109/ICRA.2017.7989538) · [Project](https://www.imperial.ac.uk/a-z-research/dyson-robotics-lab/projects/semanticfusion/) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
 
 <a name="ref-073"></a>
 
@@ -732,7 +732,7 @@ Xie, Y. · Huang, Z. · Wu, J. · Ma, J.
 
 In: 2025 IEEE/CVF International Conference on Computer Vision (ICCV), pp. 26869–26878 (2025). IEEE
 
-[Paper](https://doi.org/10.1109/ICCV51701.2025.02494) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
+[Paper](https://doi.org/10.1109/ICCV51701.2025.02494) · [Code](https://github.com/xieyuser/GS-LIVM) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
 
 <a name="ref-074"></a>
 
@@ -752,7 +752,7 @@ Hong, S. · Zheng, C. · Shen, Y. · Li, C. · Zhang, F. · Qin, T. · Shen, S.
 
 IEEE Transactions on Robotics 41, 4253–4268 (2025)
 
-[Paper](https://doi.org/10.1109/TRO.2025.3582809) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
+[Paper](https://doi.org/10.1109/TRO.2025.3582809) · [Code](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
 
 <a name="ref-076"></a>
 
@@ -772,7 +772,7 @@ Yan, Z. · Li, S. · Wang, Z. · Wu, L. · Wang, H. · Zhu, J. · Chen, L. · Li
 
 IEEE Robotics and Automation Letters 10(5), 4252–4259 (2025)
 
-[Paper](https://doi.org/10.1109/LRA.2025.3547643) · Text [§4.3](CHAPTERS.md#sec-4-3), [§7.2.1](CHAPTERS.md#sec-7-2-1) · Figure 2 [§4.3](METHODS.md#sec-4-3)
+[Paper](https://doi.org/10.1109/LRA.2025.3547643) · [Code](https://github.com/BJHYZJ/DovSG) · Text [§4.3](CHAPTERS.md#sec-4-3), [§7.2.1](CHAPTERS.md#sec-7-2-1) · Figure 2 [§4.3](METHODS.md#sec-4-3)
 
 <a name="ref-078"></a>
 
@@ -782,7 +782,7 @@ Rosinol, A. · Gupta, A. · Abate, M. · Shi, J. · Carlone, L.
 
 arXiv preprint arXiv:2002.06289 (2020)
 
-[Paper](https://arxiv.org/abs/2002.06289) · Figure 2 [§4.3](METHODS.md#sec-4-3)
+[Paper](https://arxiv.org/abs/2002.06289) · [Project](https://web.mit.edu/sparklab/2020/11/10/3D_Dynamic_Scene_Graphs__Actionable_Spatial_Perception_with_Places__Objects__and_Humans.html) · Figure 2 [§4.3](METHODS.md#sec-4-3)
 
 <a name="ref-079"></a>
 
@@ -792,7 +792,7 @@ Hughes, N. · Chang, Y. · Carlone, L.
 
 arXiv preprint arXiv:2201.13360 (2022)
 
-[Paper](https://arxiv.org/abs/2201.13360) · Figure 2 [§4.3](METHODS.md#sec-4-3)
+[Paper](https://arxiv.org/abs/2201.13360) · [Code](https://github.com/MIT-SPARK/Hydra) · Figure 2 [§4.3](METHODS.md#sec-4-3)
 
 <a name="ref-080"></a>
 
@@ -832,7 +832,7 @@ Hu, Y. · Lu, Y. · Xu, R. · Xie, W. · Chen, S. · Wang, Y.
 
 In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 9243– 9252 (2023)
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Collaboration_Helps_Camera_Overtake_LiDAR_in_3D_Detection_CVPR_2023_paper.html) · Text [§5.1](CHAPTERS.md#sec-5-1) · Figure 2 [§5.1](METHODS.md#sec-5-1)
+[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Collaboration_Helps_Camera_Overtake_LiDAR_in_3D_Detection_CVPR_2023_paper.html) · [Code](https://github.com/MediaBrain-SJTU/CoCa3D) · Text [§5.1](CHAPTERS.md#sec-5-1) · Figure 2 [§5.1](METHODS.md#sec-5-1)
 
 <a name="ref-084"></a>
 
@@ -852,7 +852,7 @@ Xiang, H. · Xu, R. · Ma, J.
 
 In: Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 284–295 (2023)
 
-[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Xiang_HM-ViT_Hetero-Modal_Vehicle-to-Vehicle_Cooperative_Perception_with_Vision_Transformer_ICCV_2023_paper.html) · Text [§5.1](CHAPTERS.md#sec-5-1) · Figure 2 [§5.1](METHODS.md#sec-5-1)
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Xiang_HM-ViT_Hetero-Modal_Vehicle-to-Vehicle_Cooperative_Perception_with_Vision_Transformer_ICCV_2023_paper.html) · [Code](https://github.com/XHwind/HM-ViT) · Text [§5.1](CHAPTERS.md#sec-5-1) · Figure 2 [§5.1](METHODS.md#sec-5-1)
 
 <a name="ref-086"></a>
 
@@ -882,7 +882,7 @@ Liu, Y.-C. · Tian, J. · Glaser, N. · Kira, Z.
 
 In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4106–4115 (2020)
 
-[Paper](https://doi.org/10.1109/CVPR42600.2020.00416) · Text [§5.2](CHAPTERS.md#sec-5-2) · Figure 2 [§5.2](METHODS.md#sec-5-2)
+[Paper](https://doi.org/10.1109/CVPR42600.2020.00416) · [Code](https://github.com/GT-RIPL/MultiAgentPerception) · Text [§5.2](CHAPTERS.md#sec-5-2) · Figure 2 [§5.2](METHODS.md#sec-5-2)
 
 <a name="ref-089"></a>
 
@@ -892,7 +892,7 @@ Liu, Y.-C. · Tian, J. · Ma, C.-Y. · Glaser, N. · Kuo, C.-W. · Kira, Z.
 
 In: 2020 IEEE International Conference on Robotics and Automation (ICRA), pp. 6876–6883 (2020). IEEE
 
-[Paper](https://doi.org/10.1109/ICRA40945.2020.9197364) · Text [§5.2](CHAPTERS.md#sec-5-2) · Figure 2 [§5.2](METHODS.md#sec-5-2)
+[Paper](https://doi.org/10.1109/ICRA40945.2020.9197364) · [Project](https://ycliu93.github.io/projects/multi-agent-perception.html) · Text [§5.2](CHAPTERS.md#sec-5-2) · Figure 2 [§5.2](METHODS.md#sec-5-2)
 
 <a name="ref-090"></a>
 
@@ -902,7 +902,7 @@ Yang, D. · Yang, K. · Wang, Y. · Liu, J. · Xu, Z. · Yin, R. · Zhai, P. · 
 
 Advances in Neural Information Processing Systems 36 (2024)
 
-[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4f31327e046913c7238d5b671f5d820e-Abstract.html) · Text [§5.2](CHAPTERS.md#sec-5-2) · Figure 2 [§5.2](METHODS.md#sec-5-2)
+[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4f31327e046913c7238d5b671f5d820e-Abstract.html) · [Code](https://github.com/ydk122024/How2comm) · Text [§5.2](CHAPTERS.md#sec-5-2) · Figure 2 [§5.2](METHODS.md#sec-5-2)
 
 <a name="ref-091"></a>
 
@@ -922,7 +922,7 @@ Hu, Y. · Peng, J. · Liu, S. · Ge, J. · Liu, S. · Chen, S.
 
 In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 15481–15490 (2024)
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hu_Communication-Efficient_Collaborative_Perception_via_Information_Filling_with_Codebook_CVPR_2024_paper.html) · Text [§5.2](CHAPTERS.md#sec-5-2) · Figure 2 [§5.2](METHODS.md#sec-5-2)
+[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hu_Communication-Efficient_Collaborative_Perception_via_Information_Filling_with_Codebook_CVPR_2024_paper.html) · [Code](https://github.com/PhyllisH/CodeFilling) · Text [§5.2](CHAPTERS.md#sec-5-2) · Figure 2 [§5.2](METHODS.md#sec-5-2)
 
 <a name="ref-093"></a>
 
@@ -932,7 +932,7 @@ Gu, Q. · Ye, Z. · Yu, J. · Tang, J. · Yi, T. · Dong, Y. · Wang, J. · Cui,
 
 IEEE Robotics and Automation Letters 10(6), 5713–5720 (2025)
 
-[Paper](https://doi.org/10.1109/LRA.2025.3561569) · Text [§5.2](CHAPTERS.md#sec-5-2) · Figure 2 [§5.2](METHODS.md#sec-5-2)
+[Paper](https://doi.org/10.1109/LRA.2025.3561569) · [Project](https://github.com/efc-robot/MR-COGraphs) · Text [§5.2](CHAPTERS.md#sec-5-2) · Figure 2 [§5.2](METHODS.md#sec-5-2)
 
 <a name="ref-094"></a>
 
@@ -942,7 +942,7 @@ Ma, Y. · Lu, J. · Cui, C. · Zhao, S. · Cao, X. · Ye, W. · Wang, Z.
 
 In: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 3373–3382 (2024)
 
-[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Ma_MACP_Efficient_Model_Adaptation_for_Cooperative_Perception_WACV_2024_paper.pdf) · Text [§5.2](CHAPTERS.md#sec-5-2) · Figure 2 [§5.2](METHODS.md#sec-5-2)
+[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Ma_MACP_Efficient_Model_Adaptation_for_Cooperative_Perception_WACV_2024_paper.pdf) · [Code](https://github.com/PurdueDigitalTwin/MACP) · Text [§5.2](CHAPTERS.md#sec-5-2) · Figure 2 [§5.2](METHODS.md#sec-5-2)
 
 <a name="ref-095"></a>
 
@@ -952,11 +952,11 @@ Chen, B. · Xu, Z. · Kirmani, S. · Ichter, B. · Sadigh, D. · Guibas, L. · X
 
 In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 14455– 14465 (2024)
 
-[Paper](https://doi.org/10.1109/CVPR52733.2024.01370) · Text [§6.1](CHAPTERS.md#sec-6-1) · Figure 2 [§6.1](METHODS.md#sec-6-1)
+[Paper](https://doi.org/10.1109/CVPR52733.2024.01370) · [Project](https://spatial-vlm.github.io/) · Text [§6.1](CHAPTERS.md#sec-6-1) · Figure 2 [§6.1](METHODS.md#sec-6-1)
 
 <a name="ref-096"></a>
 
-### [96] Robopoint: a vision-language model for spatial affordance prediction for robotics (2024)
+### [96] RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics
 
 Yuan, W. · Duan, J. · Blukis, V. · Pumacay, W. · Krishna, R. · Murali, A. · Mousavian, A. · Fox, D.
 
@@ -982,7 +982,7 @@ Tian, X. · et al.
 
 arXiv preprint arXiv:2402.12289 (2024)
 
-[Paper](https://tsinghua-mars-lab.github.io/DriveVLM/DriveVLM.pdf) · Text [§6.1](CHAPTERS.md#sec-6-1) · Figure 2 [§6.1](METHODS.md#sec-6-1)
+[Paper](https://tsinghua-mars-lab.github.io/DriveVLM/DriveVLM.pdf) · [Project](https://tsinghua-mars-lab.github.io/DriveVLM/) · Text [§6.1](CHAPTERS.md#sec-6-1) · Figure 2 [§6.1](METHODS.md#sec-6-1)
 
 <a name="ref-099"></a>
 
@@ -992,7 +992,7 @@ Yang, S. · Liu, J. · Zhang, R. · Pan, M. · Guo, Z. · Li, X. · Chen, Z. · 
 
 In: Proceedings of the AAAI Conference on Artificial Intelligence, vol. 39, pp. 9247–9255 (2025)
 
-[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/33001/35156) · Text [§6.2](CHAPTERS.md#sec-6-2) · Figure 2 [§6.2](METHODS.md#sec-6-2)
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/33001/35156) · [Project](https://sites.google.com/view/lidar-llm) · Text [§6.2](CHAPTERS.md#sec-6-2) · Figure 2 [§6.2](METHODS.md#sec-6-2)
 
 <a name="ref-100"></a>
 
@@ -1002,7 +1002,7 @@ Jin, B. · Zheng, Y. · Li, P. · Li, W. · Zheng, Y. · Hu, S. · Liu, X. · Zh
 
 In: European Conference on Computer Vision, pp. 367–384 (2024). Springer
 
-[Paper](https://doi.org/10.1007/978-3-031-72649-1_21) · Text [§6.2](CHAPTERS.md#sec-6-2) · Figure 2 [§6.2](METHODS.md#sec-6-2)
+[Paper](https://doi.org/10.1007/978-3-031-72649-1_21) · [Code](https://github.com/jxbbb/TOD3Cap) · Text [§6.2](CHAPTERS.md#sec-6-2) · Figure 2 [§6.2](METHODS.md#sec-6-2)
 
 <a name="ref-101"></a>
 
@@ -1022,7 +1022,7 @@ Cao, X. · Zhou, T. · Ma, Y. · Ye, W. · Cui, C. · Tang, K. · Cao, Z. · Lia
 
 In: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 21819–21830 (2024). IEEE
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cao_MAPLM_A_Real-World_Large-Scale_Vision-Language_Benchmark_for_Map_and_Traffic_CVPR_2024_paper.html) · Text [§6.2](CHAPTERS.md#sec-6-2) · Figure 2 [§6.2](METHODS.md#sec-6-2)
+[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cao_MAPLM_A_Real-World_Large-Scale_Vision-Language_Benchmark_for_Map_and_Traffic_CVPR_2024_paper.html) · [Code](https://github.com/LLVM-AD/MAPLM) · Text [§6.2](CHAPTERS.md#sec-6-2) · Figure 2 [§6.2](METHODS.md#sec-6-2)
 
 <a name="ref-103"></a>
 
@@ -1072,7 +1072,7 @@ Majeedi, A. · Ruan, Z. · Zhao, Z. · Wang, H. · Lu, J. · Li, Y.
 
 arXiv preprint arXiv:2604.18829 (2026)
 
-[Paper](https://arxiv.org/abs/2604.18829) · Text [§6.2](CHAPTERS.md#sec-6-2) · Figure 2 [§6.2](METHODS.md#sec-6-2)
+[Paper](https://arxiv.org/abs/2604.18829) · [Code](https://github.com/abrarmajeedi/DualVision) · Text [§6.2](CHAPTERS.md#sec-6-2) · Figure 2 [§6.2](METHODS.md#sec-6-2)
 
 <a name="ref-108"></a>
 
@@ -1082,7 +1082,7 @@ Thushara, R. · Ranasinghe, Y. · Paranjape, J. · Patel, V.M.
 
 arXiv preprint arXiv:2605.21882 (2026)
 
-[Paper](https://arxiv.org/abs/2605.21882) · Text [§6.2](CHAPTERS.md#sec-6-2) · Figure 2 [§6.2](METHODS.md#sec-6-2)
+[Paper](https://arxiv.org/abs/2605.21882) · [Project](https://thusharakart.github.io/Thermo-VL) · Text [§6.2](CHAPTERS.md#sec-6-2) · Figure 2 [§6.2](METHODS.md#sec-6-2)
 
 <a name="ref-109"></a>
 
