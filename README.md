@@ -9,24 +9,23 @@ A car can use radar when a camera loses contrast in fog. A robot can return to a
 
 ![Counts of Figure 2 methods by publication year and survey category, from 2017 to 2026.](method-timeline.png)
 
-## Latest update · 更新
+## Latest update
 
 **17 November 2026** · The catalog follows the survey edition of this date. It includes all 150 references, the 93 representative works in Figure 2, and the 15 datasets in Table 1.
 
 <a name="methods-nav"></a>
 
-## Navigation · 方法导航
+## Navigation
 
 | Topic | Question | Jump to a method table |
 | --- | --- | --- |
-| Across modalities · 跨模态融合 | Where do camera, LiDAR, radar, or thermal observations meet in the representation? | [Point](#methods-3-1) · [Voxel](#methods-3-2) · [Region](#methods-3-3) · [Multi-level](#methods-3-4) |
-| Across time · 时序融合 | What does a system retain from earlier views of an object or scene? | [Object](#methods-4-1) · [Scene](#methods-4-2) · [Object–scene](#methods-4-3) |
-| Across agents · 多智能体融合 | What do agents share, and how do they select what to transmit? | [Collaborative fusion](#methods-5-1) · [Communication](#methods-5-2) |
-| Language and perception · 语言模型与感知 | How do language models use images and other sensor observations for spatial reasoning? | [Vision–language](#methods-6-1) · [Other sensor inputs](#methods-6-2) |
+| Across modalities | Where do camera, LiDAR, radar, or thermal observations meet in the representation? | [Point](#methods-3-1) · [Voxel](#methods-3-2) · [Region](#methods-3-3) · [Multi-level](#methods-3-4) |
+| Across time | What does a system retain from earlier views of an object or scene? | [Object](#methods-4-1) · [Scene](#methods-4-2) · [Object–scene](#methods-4-3) |
+| Across agents | What do agents share, and how do they select what to transmit? | [Collaborative fusion](#methods-5-1) · [Communication](#methods-5-2) |
+| Language and perception | How do language models use images and other sensor observations for spatial reasoning? | [Vision–language](#methods-6-1) · [Other sensor inputs](#methods-6-2) |
 
-<a name="datasets"></a>
 
-## Datasets · 数据集
+## Datasets
 
 Each dataset name links to its project. Scale refers to the subset or release summarized in the survey, with the unit shown for each row.
 
@@ -55,14 +54,13 @@ Each dataset name links to its project. Scale refers to the subset or release su
 | [Viking Hill](https://github.com/RNP-lab/viking_hill_radar_lidar_camera_dataset) | LiDAR, radar, camera, IMU | forest | 2 sessions | [126](REFERENCES.md#ref-126) |
 | [WaterScenes](https://waterscenes.github.io/) | radar, camera, IMU | rivers, lakes, canals, moats | 54,120 samples | [8](REFERENCES.md#ref-008) |
 
-<a name="methods"></a>
 <a name="explore-the-methods"></a>
 
-## Methods · 方法集
+## Methods
 
 Method names and group assignments follow Figure 2. Each paper title is paired with its venue and year as cited. The resource column links to the paper and, where verified, author code or a project page. ConceptGraphs appears in three groups. The two Hydra entries correspond to distinct papers.
 
-### §3 · Across modalities · 跨模态融合
+### §3 · Across modalities
 
 <a name="methods-3-1"></a>
 
@@ -132,7 +130,7 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 | **CSSA** | Multimodal object detection by channel switching and spatial attention | CVPR · 2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/html/Cao_Multimodal_Object_Detection_by_Channel_Switching_and_Spatial_Attention_CVPRW_2023_paper.html) | [56](REFERENCES.md#ref-056) |
 | **Fusion-Mamba** | Fusion-mamba for cross-modality object detection | arXiv · 2024 | [Paper](https://arxiv.org/abs/2404.09146) · [Code](https://github.com/EhanDong/Fusion-Mamba) | [57](REFERENCES.md#ref-057) |
 
-### §4 · Across time · 时序融合
+### §4 · Across time
 
 <a name="methods-4-1"></a>
 
@@ -180,7 +178,7 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 | **Hydra** | Hydra: A real-time spatial perception system for 3D scene graph construction and optimization | arXiv · 2022 | [Paper](https://arxiv.org/abs/2201.13360) · [Code](https://github.com/MIT-SPARK/Hydra) | [79](REFERENCES.md#ref-079) |
 | **Khronos** | Khronos: A unified approach for spatio-temporal metric-semantic slam in dynamic environments | arXiv · 2024 | [Paper](https://arxiv.org/abs/2402.13817) · [Code](https://github.com/MIT-SPARK/Khronos) | [80](REFERENCES.md#ref-080) |
 
-### §5 · Across agents · 多智能体融合
+### §5 · Across agents
 
 <a name="methods-5-1"></a>
 
@@ -210,7 +208,7 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 | **MR-COGraphs** | MR-COGraphs: Communication-efficient multi-robot open-vocabulary mapping system via 3D scene graphs | IEEE RA-L · 2025 | [Paper](https://doi.org/10.1109/LRA.2025.3561569) · [Project](https://github.com/efc-robot/MR-COGraphs) | [93](REFERENCES.md#ref-093) |
 | **MACP** | MACP: Efficient model adaptation for cooperative perception | WACV · 2024 | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Ma_MACP_Efficient_Model_Adaptation_for_Cooperative_Perception_WACV_2024_paper.pdf) · [Code](https://github.com/PurdueDigitalTwin/MACP) | [94](REFERENCES.md#ref-094) |
 
-### §6 · Language and perception · 语言模型与感知
+### §6 · Language and perception
 
 <a name="methods-6-1"></a>
 
@@ -242,9 +240,8 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 | **FireMM-IR** | FireMM-IR: An Infrared-Enhanced Multi-Modal Large Language Model for Comprehensive Scene Understanding in Remote Sensing Forest Fire Monitoring | Sensors · 2026 | [Paper](https://doi.org/10.3390/s26020390) | [109](REFERENCES.md#ref-109) |
 | **Wang et al.** | Infrared and visible image fusion driven by multimodal large language models | Frontiers in Physics · 2025 | [Paper](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1599937/full) | [110](REFERENCES.md#ref-110) |
 
-<a name="evaluation"></a>
 
-## Evaluation · 评价指标
+## Evaluation
 
 These examples link each task to the dataset authors’ definition or evaluation code. The KITTI entry uses its depth-completion benchmark, which has a different split from the detection subset listed above.
 
@@ -258,9 +255,8 @@ These examples link each task to the dataset authors’ definition or evaluation
 | WaterScenes | Free-space and waterline segmentation from a surface vessel | Overall pixel accuracy (OA) and mean intersection over union (mIoU) for each task | [Benchmark definitions](https://arxiv.org/html/2307.06505#S4.SS2) |
 
 <a name="chapters"></a>
-<a name="browse-by-chapter"></a>
 
-## Browse by chapter · 章节索引
+## Browse by chapter
 
 The chapter index includes the background, dataset, and open-challenge papers alongside the method literature.
 
@@ -275,7 +271,7 @@ The chapter index includes the background, dataset, and open-challenge papers al
 
 <a name="resources"></a>
 
-## Resource library · 资料下载
+## Resource library
 
 - [Full bibliography](REFERENCES.md) — open a numbered record to see its authors, source, and survey sections.
 - [Reference catalog (CSV)](references.csv) — filter the 150 records by year, chapter, method category, or availability of a code or project link.
