@@ -1,6 +1,6 @@
 # Methods in Figure 2
 
-[Overview](README.md) · [Full bibliography](REFERENCES.md)
+[Overview](README.md) · [References](REFERENCES.md) · [All method-chapter papers](CHAPTERS.md#sec-3)
 
 The survey groups 93 works into 11 categories. ConceptGraphs appears under region-level, object-level temporal, and object–scene temporal fusion. The two entries named Hydra refer to different papers.
 

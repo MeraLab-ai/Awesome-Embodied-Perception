@@ -1,78 +1,8 @@
-# Full bibliography
+# Dataset and method references
 
-[Overview](README.md) · [Chapter index](CHAPTERS.md) · [Figure 2](METHODS.md) · [Download CSV](references.csv)
+[Overview](README.md) · [Section index](CHAPTERS.md) · [Figure 2 methods](METHODS.md) · [Download CSV](references.csv)
 
-Numbers follow the references in the 17 November 2026 manuscript. Section links point to the chapter index. Figure links point to the method categories.
-
-<a name="ref-001"></a>
-
-### [1] Dae-gan: Dynamic aspect-aware gan for text-to-image synthesis
-
-Ruan, S. · Zhang, Y. · Zhang, K. · Fan, Y. · Tang, F. · Liu, Q. · Chen, E.
-
-In: Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 13960–13969 (2021)
-
-[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ruan_DAE-GAN_Dynamic_Aspect-Aware_GAN_for_Text-to-Image_Synthesis_ICCV_2021_paper.pdf) · Text [§1](CHAPTERS.md#sec-1)
-
-<a name="ref-002"></a>
-
-### [2] CPWS: Confident Programmatic Weak Supervision for High-Quality Data Labeling
-
-Ruan, S. · Liu, H. · Chen, Z. · Feng, B. · Zhang, K. · Cao, C.C. · Chen, E. · Chen, L.
-
-ACM Transactions on Information Systems 43(4), 1–26 (2025)
-
-[Paper](https://doi.org/10.1145/3725730) · Text [§1](CHAPTERS.md#sec-1)
-
-<a name="ref-003"></a>
-
-### [3] Color Enhanced Cross Correlation Net for Image Sentiment Analysis
-
-Ruan, S. · Zhang, K. · Wu, L. · Xu, T. · Liu, Q. · Chen, E.
-
-IEEE Transactions on Multimedia 26, 4097–4109 (2024)
-
-[Paper](https://doi.org/10.1109/tmm.2021.3118208) · Text [§1](CHAPTERS.md#sec-1)
-
-<a name="ref-004"></a>
-
-### [4] Embodied intelligence: A synergy of morphology, action, perception and learning
-
-Liu, H. · Guo, D. · Cangelosi, A.
-
-ACM Computing Surveys 57(7), 1–36 (2025)
-
-[Paper](https://doi.org/10.1145/3717059) · Text [§1](CHAPTERS.md#sec-1), [§2.1](CHAPTERS.md#sec-2-1)
-
-<a name="ref-005"></a>
-
-### [5] A survey of autonomous driving: Common practices and emerging technologies
-
-Yurtsever, E. · Lambert, J. · Carballo, A. · Takeda, K.
-
-IEEE access 8, 58443–58469 (2020)
-
-[Paper](https://arxiv.org/abs/1906.05113) · Text [§1](CHAPTERS.md#sec-1), [§2.1](CHAPTERS.md#sec-2-1)
-
-<a name="ref-006"></a>
-
-### [6] Cerberus: Autonomous legged and aerial robotic exploration in the tunnel and urban circuits of the darpa subterranean challenge
-
-Tranzatto, M. · Mascarich, F. · Bernreiter, L. · Godinho, C. · Camurri, M. · Khattak, S. · Dang, T. · Reijgwart, V. · Loeje, J. · Wisth, D. · et al.
-
-Field Robotics 2, 274–324 (2022)
-
-[Paper](https://doi.org/10.55417/fr.2022011) · Text [§1](CHAPTERS.md#sec-1), [§2.1](CHAPTERS.md#sec-2-1)
-
-<a name="ref-007"></a>
-
-### [7] A Survey on LiDAR-based autonomous aerial vehicles
-
-Ren, Y. · Cai, Y. · Li, H. · Chen, N. · Zhu, F. · Yin, L. · Kong, F. · Li, R. · Zhang, F.
-
-IEEE/ASME Transactions on Mechatronics (2025)
-
-[Paper](https://arxiv.org/abs/2509.10730) · Text [§1](CHAPTERS.md#sec-1), [§2.1](CHAPTERS.md#sec-2-1)
+These 118 references cover the datasets in §2.3 and methods in §§3–6, including the works in Figure 2. Numbers follow the 17 November 2026 manuscript and retain gaps where out-of-scope references were omitted. Section links point to the section index. Figure links point to the method categories.
 
 <a name="ref-008"></a>
 
@@ -82,97 +12,7 @@ Yao, S. · Guan, R. · Wu, Z. · Ni, Y. · Huang, Z. · Liu, R.W. · Yue, Y. · 
 
 IEEE Transactions on Intelligent Transportation Systems 25(11), 16584–16598 (2024)
 
-[Paper](https://arxiv.org/abs/2307.06505) · Text [§1](CHAPTERS.md#sec-1), [§2.1](CHAPTERS.md#sec-2-1), [§2.3](CHAPTERS.md#sec-2-3)
-
-<a name="ref-009"></a>
-
-### [9] Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook
-
-Song, Z. · Liu, L. · Jia, F. · Luo, Y. · Jia, C. · Zhang, G. · Yang, L. · Wang, L.
-
-IEEE Transactions on Intelligent Transportation Systems 25(11), 15407–15436 (2024)
-
-[Paper](https://doi.org/10.1109/tits.2024.3439557) · Text [§1](CHAPTERS.md#sec-1)
-
-<a name="ref-010"></a>
-
-### [10] Multi-modal 3d object detection in autonomous driving: a survey
-
-Wang, Y. · Mao, Q. · Zhu, H. · Deng, J. · Zhang, Y. · Ji, J. · Li, H. · Zhang, Y.
-
-International Journal of Computer Vision 131(8), 2122–2152 (2023)
-
-[Paper](https://doi.org/10.1007/s11263-023-01784-z) · Text [§1](CHAPTERS.md#sec-1)
-
-<a name="ref-011"></a>
-
-### [11] Multi-modal 3d object detection in autonomous driving: A survey and taxonomy
-
-Wang, L. · Zhang, X. · Song, Z. · Bi, J. · Zhang, G. · Wei, H. · Tang, L. · Yang, L. · Li, J. · Jia, C. · et al.
-
-IEEE Transactions on Intelligent Vehicles 8(7), 3781–3798 (2023)
-
-[Paper](https://doi.org/10.1109/tiv.2023.3264658) · Text [§1](CHAPTERS.md#sec-1)
-
-<a name="ref-012"></a>
-
-### [12] Vision-based 3d occupancy prediction in autonomous driving: a review and outlook
-
-Zhang, Y. · Zhang, J. · Wang, Z. · Xu, J. · Huang, D.
-
-Frontiers of Computer Science 20(1), 2001301 (2026)
-
-[Paper](https://arxiv.org/abs/2405.02595) · Text [§1](CHAPTERS.md#sec-1)
-
-<a name="ref-013"></a>
-
-### [13] A survey on the visual perception of humanoid robot
-
-Bin, T. · Yan, H. · Wang, N. · Nikolić, M.N. · Yao, J. · Zhang, T.
-
-Biomimetic Intelligence and Robotics, 100197 (2024)
-
-[Paper](https://www.sciencedirect.com/science/article/pii/S266737972400055X) · Text [§1](CHAPTERS.md#sec-1)
-
-<a name="ref-014"></a>
-
-### [14] Camera, LiDAR, and IMU based multi-sensor fusion SLAM: A survey
-
-Zhu, J. · Li, H. · Zhang, T.
-
-Tsinghua Science and Technology 29(2), 415–429 (2023)
-
-[Paper](https://doi.org/10.26599/tst.2023.9010010) · Text [§1](CHAPTERS.md#sec-1)
-
-<a name="ref-015"></a>
-
-### [15] Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision
-
-Han, X. · Chen, S. · Fu, Z. · Feng, Z. · Fan, L. · An, D. · Wang, C. · Guo, L. · Meng, W. · Zhang, X. · et al.
-
-arXiv preprint arXiv:2504.02477 (2025)
-
-[Paper](https://arxiv.org/abs/2504.02477) · Text [§1](CHAPTERS.md#sec-1)
-
-<a name="ref-016"></a>
-
-### [16] Multi-sensor fusion and cooperative perception for autonomous driving: A review
-
-Xiang, C. · Feng, C. · Xie, X. · Shi, B. · Lu, H. · Lv, Y. · Yang, M. · Niu, Z.
-
-IEEE Intelligent Transportation Systems Magazine (2023)
-
-[Paper](https://doi.org/10.1109/mits.2023.3283864) · Text [§1](CHAPTERS.md#sec-1)
-
-<a name="ref-017"></a>
-
-### [17] Advancements in perception system with multi-sensor fusion for embodied agents
-
-Du, H. · Ren, L. · Wang, Y. · Cao, X. · Sun, C.
-
-Information Fusion, 102859 (2024)
-
-[Paper](https://doi.org/10.1016/j.inffus.2024.102859) · Text [§1](CHAPTERS.md#sec-1)
+[Paper](https://arxiv.org/abs/2307.06505) · Text [§2.3](CHAPTERS.md#sec-2-3)
 
 <a name="ref-018"></a>
 
@@ -252,7 +92,7 @@ Li, Y. · Yu, A.W. · Meng, T. · Caine, B. · Ngiam, J. · Peng, D. · Shen, J.
 
 In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 17182–17191 (2022)
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_DeepFusion_Lidar-Camera_Deep_Fusion_for_Multi-Modal_3D_Object_Detection_CVPR_2022_paper.html) · [Code](https://github.com/tensorflow/lingvo/blob/master/lingvo/tasks/car/deep_fusion.py) · Text [§3.2](CHAPTERS.md#sec-3-2), [§7.1.1](CHAPTERS.md#sec-7-1-1) · Figure 2 [§3.1](METHODS.md#sec-3-1)
+[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_DeepFusion_Lidar-Camera_Deep_Fusion_for_Multi-Modal_3D_Object_Detection_CVPR_2022_paper.html) · [Code](https://github.com/tensorflow/lingvo/blob/master/lingvo/tasks/car/deep_fusion.py) · Text [§3.2](CHAPTERS.md#sec-3-2) · Figure 2 [§3.1](METHODS.md#sec-3-1)
 
 <a name="ref-026"></a>
 
@@ -292,7 +132,7 @@ Wang, C. · Ma, C. · Zhu, M. · Yang, X.
 
 In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 11794– 11803 (2021)
 
-[Paper](https://doi.org/10.1109/cvpr46437.2021.01162) · [Code](https://github.com/VISION-SJTU/PointAugmenting) · Text [§3.1](CHAPTERS.md#sec-3-1), [§7.1.1](CHAPTERS.md#sec-7-1-1) · Figure 2 [§3.2](METHODS.md#sec-3-2)
+[Paper](https://doi.org/10.1109/cvpr46437.2021.01162) · [Code](https://github.com/VISION-SJTU/PointAugmenting) · Text [§3.1](CHAPTERS.md#sec-3-1) · Figure 2 [§3.2](METHODS.md#sec-3-2)
 
 <a name="ref-030"></a>
 
@@ -632,7 +472,7 @@ Shoouri, S. · Taba, M.T. · Kim, H.-S.
 
 In: Proceedings of the AAAI Conference on Artificial Intelligence, vol. 40, pp. 25410–25418 (2026)
 
-[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39735) · Text [§4.1](CHAPTERS.md#sec-4-1), [§7.3.2](CHAPTERS.md#sec-7-3-2) · Figure 2 [§4.1](METHODS.md#sec-4-1)
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39735) · Text [§4.1](CHAPTERS.md#sec-4-1) · Figure 2 [§4.1](METHODS.md#sec-4-1)
 
 <a name="ref-064"></a>
 
@@ -682,7 +522,7 @@ Wang, Q. · Zhang, Y. · Holynski, A. · Efros, A.A. · Kanazawa, A.
 
 In: 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 10510–10522 (2025). IEEE
 
-[Paper](https://doi.org/10.1109/CVPR52734.2025.00983) · [Code](https://github.com/CUT3R/CUT3R) · Text [§4.2](CHAPTERS.md#sec-4-2), [§7.2.1](CHAPTERS.md#sec-7-2-1) · Figure 2 [§4.2](METHODS.md#sec-4-2)
+[Paper](https://doi.org/10.1109/CVPR52734.2025.00983) · [Code](https://github.com/CUT3R/CUT3R) · Text [§4.2](CHAPTERS.md#sec-4-2) · Figure 2 [§4.2](METHODS.md#sec-4-2)
 
 <a name="ref-069"></a>
 
@@ -772,7 +612,7 @@ Yan, Z. · Li, S. · Wang, Z. · Wu, L. · Wang, H. · Zhu, J. · Chen, L. · Li
 
 IEEE Robotics and Automation Letters 10(5), 4252–4259 (2025)
 
-[Paper](https://doi.org/10.1109/LRA.2025.3547643) · [Code](https://github.com/BJHYZJ/DovSG) · Text [§4.3](CHAPTERS.md#sec-4-3), [§7.2.1](CHAPTERS.md#sec-7-2-1) · Figure 2 [§4.3](METHODS.md#sec-4-3)
+[Paper](https://doi.org/10.1109/LRA.2025.3547643) · [Code](https://github.com/BJHYZJ/DovSG) · Text [§4.3](CHAPTERS.md#sec-4-3) · Figure 2 [§4.3](METHODS.md#sec-4-3)
 
 <a name="ref-078"></a>
 
@@ -912,7 +752,7 @@ Hu, Y. · Fang, S. · Lei, Z. · Zhong, Y. · Chen, S.
 
 Advances in neural information processing systems 35, 4874–4886 (2022)
 
-[Paper](https://papers.neurips.cc/paper_files/paper/2022/hash/1f5c5cd01b864d53cc5fa0a3472e152e-Abstract-Conference.html) · [Code](https://github.com/MediaBrain-SJTU/Where2comm) · Text [§5.2](CHAPTERS.md#sec-5-2), [§7.3.2](CHAPTERS.md#sec-7-3-2) · Figure 2 [§5.2](METHODS.md#sec-5-2)
+[Paper](https://papers.neurips.cc/paper_files/paper/2022/hash/1f5c5cd01b864d53cc5fa0a3472e152e-Abstract-Conference.html) · [Code](https://github.com/MediaBrain-SJTU/Where2comm) · Text [§5.2](CHAPTERS.md#sec-5-2) · Figure 2 [§5.2](METHODS.md#sec-5-2)
 
 <a name="ref-092"></a>
 
@@ -1104,16 +944,6 @@ Frontiers in Physics 13, 1599937 (2025)
 
 [Paper](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1599937/full) · Text [§6.2](CHAPTERS.md#sec-6-2) · Figure 2 [§6.2](METHODS.md#sec-6-2)
 
-<a name="ref-111"></a>
-
-### [111] What is the best 3d scene representation for robotics? from geometric to foundation models
-
-Deng, T. · Pan, Y. · Yuan, S. · Li, D. · Wang, C. · Li, M. · Chen, L. · Xie, L. · Wang, D. · Wang, J. · et al.
-
-arXiv preprint arXiv:2512.03422 (2025)
-
-[Paper](https://arxiv.org/abs/2512.03422) · Text [§2.1](CHAPTERS.md#sec-2-1)
-
 <a name="ref-112"></a>
 
 ### [112] Multimodal human detection using RGB, thermal and LiDAR modalities for robotic perception
@@ -1122,7 +952,7 @@ Mota, K.O. · Garrote, L. · Premebida, C.
 
 In: 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE), pp. 4168–4173 (2024). IEEE
 
-[Paper](https://doi.org/10.1109/case59546.2024.10711565) · Text [§2.2](CHAPTERS.md#sec-2-2), [§2.3](CHAPTERS.md#sec-2-3)
+[Paper](https://doi.org/10.1109/case59546.2024.10711565) · Text [§2.3](CHAPTERS.md#sec-2-3)
 
 <a name="ref-113"></a>
 
@@ -1132,7 +962,7 @@ Yin, J. · Li, A. · Li, T. · Yu, W. · Zou, D.
 
 IEEE Robotics and Automation Letters 7(2), 2266–2273 (2021)
 
-[Paper](https://doi.org/10.1109/lra.2021.3138527) · Text [§2.2](CHAPTERS.md#sec-2-2), [§2.3](CHAPTERS.md#sec-2-3)
+[Paper](https://doi.org/10.1109/lra.2021.3138527) · Text [§2.3](CHAPTERS.md#sec-2-3)
 
 <a name="ref-114"></a>
 
@@ -1353,153 +1183,3 @@ Gao, P. · Liang, J. · Shen, Y. · Son, S. · Lin, M.C.
 In: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 11079–11086 (2023). IEEE
 
 [Paper](https://doi.org/10.1109/IROS55552.2023.10341898) · Text [§5.1](CHAPTERS.md#sec-5-1)
-
-<a name="ref-136"></a>
-
-### [136] Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models
-
-Ren, X. · Lu, Y. · Cao, T. · Gao, R. · Huang, S. · Sabour, A. · Shen, T. · Pfaff, T. · Wu, J.Z. · Chen, R. · et al.
-
-arXiv preprint arXiv:2506.09042 (2025)
-
-[Paper](https://arxiv.org/abs/2506.09042) · Text [§7.1.1](CHAPTERS.md#sec-7-1-1)
-
-<a name="ref-137"></a>
-
-### [137] Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction
-
-Chung, D. · Jin, S. · Choi, H. · An, H. · Seo, J. · Kim, H. · Kim, S.W. · Kim, S.
-
-arXiv preprint arXiv:2610.12299 (2026)
-
-[Paper](https://arxiv.org/abs/2610.12299) · Text [§7.1.1](CHAPTERS.md#sec-7-1-1)
-
-<a name="ref-138"></a>
-
-### [138] WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World
-
-Liang, A. · Kong, L. · Yan, T. · Liu, H. · Yang, Y. · Huang, Z. · Yin, W. · Zuo, J. · Hu, Y. · Zhu, D. · et al.
-
-In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 36385–36399 (2026)
-
-[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liang_WorldLens_Full-Spectrum_Evaluations_of_Driving_World_Models_in_Real_World_CVPR_2026_paper.html) · Text [§7.1.1](CHAPTERS.md#sec-7-1-1)
-
-<a name="ref-139"></a>
-
-### [139] Embodied4C: Measuring What Matters for Embodied Vision-Language Navigation
-
-Sohn, T.S. · Dillitzer, M. · Corso, J.J. · Sax, E.
-
-arXiv preprint arXiv:2512.18028 (2025)
-
-[Paper](https://arxiv.org/abs/2512.18028) · Text [§7.1.2](CHAPTERS.md#sec-7-1-2)
-
-<a name="ref-140"></a>
-
-### [140] HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction
-
-Yang, K. · Wang, Y.-C.F.
-
-arXiv preprint arXiv:2611.12011 (2026)
-
-[Paper](https://arxiv.org/abs/2611.12011) · Text [§7.2.1](CHAPTERS.md#sec-7-2-1)
-
-<a name="ref-141"></a>
-
-### [141] SpaMEM: Benchmarking Dynamic Spatial Reasoning via Perception–Memory Integration in Embodied Environments
-
-Liao, C.-T. · Xiao, X. · Meng, C. · Chen, Z. · Qiao, Y. · Zhou, W. · Wang, T. · Zheng, X. · Cao, X.
-
-In: European Conference on Computer Vision, pp. 425–442 (2026). Springer
-
-[Paper](https://doi.org/10.1007/978-3-032-37235-2_25) · Text [§7.2.1](CHAPTERS.md#sec-7-2-1)
-
-<a name="ref-142"></a>
-
-### [142] Geo3R: Mitigating Spatial Reasoning Hallucination in Multimodal Large Language Models
-
-Wang, M. · Jin, W. · Li, W. · Huang, H. · Jia, T. · Li, Y.
-
-arXiv preprint arXiv:2607.21085 (2026)
-
-[Paper](https://arxiv.org/abs/2607.21085) · Text [§7.2.2](CHAPTERS.md#sec-7-2-2)
-
-<a name="ref-143"></a>
-
-### [143] Seeing Isn't Knowing: Do VLMs Know When Not to Answer Spatial Questions (and Why)?
-
-Zhang, Y. · Wang, Z. · Lin, H. · Bitton, Y. · Szpektor, I. · Bansal, M.
-
-arXiv preprint arXiv:2605.30557 (2026)
-
-[Paper](https://arxiv.org/abs/2605.30557) · Text [§7.2.2](CHAPTERS.md#sec-7-2-2)
-
-<a name="ref-144"></a>
-
-### [144] Adaptation-Free Heterogeneous Collaborative Perception with Unseen Agent Configurations
-
-Bae, H. · Ahn, H.
-
-arXiv preprint arXiv:2605.26642 (2026)
-
-[Paper](https://arxiv.org/abs/2605.26642) · Text [§7.3.1](CHAPTERS.md#sec-7-3-1)
-
-<a name="ref-145"></a>
-
-### [145] RCP-Bench: Benchmarking Robustness for Collaborative Perception Under Diverse Corruptions
-
-Du, S. · Qu, S. · Wang, T. · Zhang, X. · Zhu, Y. · Mao, J. · Lu, F. · Lin, Q. · Chen, G.
-
-In: 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 11908–11918 (2025). IEEE
-
-[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Du_RCP-Bench_Benchmarking_Robustness_for_Collaborative_Perception_Under_Diverse_Corruptions_CVPR_2025_paper.html) · Text [§7.3.1](CHAPTERS.md#sec-7-3-1)
-
-<a name="ref-146"></a>
-
-### [146] A Comprehensive Study on Self-Learning Methods and Implications to Autonomous Driving
-
-Xing, J. · Wei, D. · Zhou, S. · Wang, T. · Huang, Y. · Chen, H.
-
-IEEE Transactions on Neural Networks and Learning Systems (2024)
-
-[Paper](https://doi.org/10.1109/TNNLS.2024.3440498) · Text [§7.3.1](CHAPTERS.md#sec-7-3-1)
-
-<a name="ref-147"></a>
-
-### [147] An adaptive tinyml unsupervised online learning algorithm for driver behavior analysis
-
-Silva, M. · Medeiros, T. · Azevedo, M. · Medeiros, M. · Themoteo, M. · Gois, T. · Silva, I. · Costa, D.G.
-
-In: 2023 IEEE International Workshop on Metrology for Automotive (MetroAutomotive), pp. 199– 204 (2023). IEEE
-
-[Paper](https://doi.org/10.1109/metroautomotive57488.2023.10219125) · Text [§7.3.1](CHAPTERS.md#sec-7-3-1)
-
-<a name="ref-148"></a>
-
-### [148] A survey of zero-shot learning: Settings, methods, and applications
-
-Wang, W. · Zheng, V.W. · Yu, H. · Miao, C.
-
-ACM Transactions on Intelligent Systems and Technology (TIST) 10(2), 1–37 (2019)
-
-[Paper](https://doi.org/10.1145/3293318) · Text [§7.3.1](CHAPTERS.md#sec-7-3-1)
-
-<a name="ref-149"></a>
-
-### [149] Multimodal LLM Guided Exploration and Active Mapping using Fisher Information
-
-Jiang, W. · Lei, B. · Ashton, K. · Daniilidis, K.
-
-In: 2025 IEEE/CVF International Conference on Computer Vision (ICCV), pp. 5392–5404 (2025). IEEE
-
-[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_Multimodal_LLM_Guided_Exploration_and_Active_Mapping_using_Fisher_Information_ICCV_2025_paper.html) · Text [§7.3.2](CHAPTERS.md#sec-7-3-2)
-
-<a name="ref-150"></a>
-
-### [150] HydraCollab: Adaptive Collaborative-Perception for Distributed Autonomous Systems
-
-Chen, L. · Wu, C.-J. · Martin, D.R. · Ye, Q. · Khargonekar, P. · Faruque, M.A.A.
-
-arXiv preprint arXiv:2607.00191 (2026)
-
-[Paper](https://arxiv.org/abs/2607.00191) · Text [§7.3.2](CHAPTERS.md#sec-7-3-2)

@@ -3,15 +3,15 @@
 **A Survey of Embodied Perception across Modalities, Time, and Agents**  
 Shulan Ruan, Zhibo Zhang, Rongwei Wang, Xuchen Shen, Huijie Liu, Yu Liu, and You He
 
-A car can use radar when a camera loses contrast in fog. A robot can return to a previously seen object to update its map. Two vehicles can exchange observations to reveal a blocked view. This survey examines what to combine in each case, and how language models use the resulting sensory evidence.
+Datasets and methods accompanying the survey, organized by its dataset section (§2.3) and method chapters (§§3–6).
 
-[Datasets](#datasets) · [Methods](#methods) · [Evaluation](#evaluation) · [Chapters](#chapters) · [Resource library](#resources)
+[Datasets](#datasets) · [Methods](#methods) · [Papers by section](#chapters) · [References](#resources)
 
 ![Counts of Figure 2 methods by publication year and survey category, from 2017 to 2026.](method-timeline.png)
 
 ## Latest update
 
-**17 November 2026** · The catalog follows the survey edition of this date. It includes all 150 references, the 93 representative works in Figure 2, and the 15 datasets in Table 1.
+**17 November 2026** · The catalog includes 15 datasets and 118 references associated with §2.3 and §§3–6. The method tables cover the 93 representative works in Figure 2. Original manuscript reference numbers are preserved.
 
 <a name="methods-nav"></a>
 
@@ -58,7 +58,7 @@ Each dataset name links to its project. Scale refers to the subset or release su
 
 ## Methods
 
-Method names and group assignments follow Figure 2. Each paper title is paired with its venue and year as cited. The resource column links to the paper and, where verified, author code or a project page. ConceptGraphs appears in three groups. The two Hydra entries correspond to distinct papers.
+Method names and group assignments follow Figure 2. Each paper title is paired with its venue and year as cited. The resource column links to the paper and, where verified, author code or a project page. ConceptGraphs appears in three groups. The two Hydra entries correspond to distinct papers. The [section index](CHAPTERS.md) also includes nine additional references discussed in the method chapters.
 
 ### §3 · Across modalities
 
@@ -240,41 +240,24 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 | **FireMM-IR** | FireMM-IR: An Infrared-Enhanced Multi-Modal Large Language Model for Comprehensive Scene Understanding in Remote Sensing Forest Fire Monitoring | Sensors · 2026 | [Paper](https://doi.org/10.3390/s26020390) | [109](REFERENCES.md#ref-109) |
 | **Wang et al.** | Infrared and visible image fusion driven by multimodal large language models | Frontiers in Physics · 2025 | [Paper](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1599937/full) | [110](REFERENCES.md#ref-110) |
 
-
-## Evaluation
-
-These examples link each task to the dataset authors’ definition or evaluation code. The KITTI entry uses its depth-completion benchmark, which has a different split from the detection subset listed above.
-
-| Dataset | Task | Reported metrics | Evaluation resource |
-| --- | --- | --- | --- |
-| KITTI | Depth completion from sparse LiDAR | RMSE and MAE on depth (mm), iRMSE and iMAE on inverse depth (1/km) | [Depth benchmark](https://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_completion) |
-| nuScenes | 3D object detection | Center-distance mAP and nuScenes Detection Score (NDS) | [Detection devkit](https://github.com/nutonomy/nuscenes-devkit/blob/master/python-sdk/nuscenes/eval/detection/README.md#evaluation-metrics) |
-| Cityscapes 3D | 3D vehicle detection | Detection Score (DS) combines 2D AP with 3D location, orientation and size scores | [3D benchmark](https://www.cityscapes-dataset.com/benchmarks/#3dbbox-results) |
-| M2DGR | Ground-robot trajectory estimation | Absolute trajectory error (ATE, m) after alignment to ground truth | [Dataset paper, Table V](https://arxiv.org/pdf/2112.13659#page=5) |
-| UAVScenes | Aerial place recognition with camera and LiDAR | Recall@1, Recall@5 and Recall@10 | [Dataset paper, Table 4](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_UAVScenes_A_Multi-Modal_Dataset_for_UAVs_ICCV_2025_paper.pdf) |
-| WaterScenes | Free-space and waterline segmentation from a surface vessel | Overall pixel accuracy (OA) and mean intersection over union (mIoU) for each task | [Benchmark definitions](https://arxiv.org/html/2307.06505#S4.SS2) |
-
 <a name="chapters"></a>
 
-## Browse by chapter
+## Papers by section
 
-The chapter index includes the background, dataset, and open-challenge papers alongside the method literature.
+Browse the dataset references and the papers cited in each method chapter.
 
-1. [Introduction](CHAPTERS.md#sec-1)
-2. [Background](CHAPTERS.md#sec-2)
-3. [Multi-modal Fusion Methods](CHAPTERS.md#sec-3)
-4. [Multi-time Fusion Methods](CHAPTERS.md#sec-4)
-5. [Multi-agent Fusion Methods](CHAPTERS.md#sec-5)
-6. [LLM-Based Multi-Sensor Fusion](CHAPTERS.md#sec-6)
-7. [Open Challenges and Future Opportunities](CHAPTERS.md#sec-7)
-8. [Conclusion](CHAPTERS.md#sec-8)
+- [§2.3 · Datasets](CHAPTERS.md#sec-2-3)
+- [§3 · Multi-modal Fusion Methods](CHAPTERS.md#sec-3)
+- [§4 · Multi-time Fusion Methods](CHAPTERS.md#sec-4)
+- [§5 · Multi-agent Fusion Methods](CHAPTERS.md#sec-5)
+- [§6 · LLM-Based Multi-Sensor Fusion](CHAPTERS.md#sec-6)
 
 <a name="resources"></a>
 
 ## Resource library
 
-- [Full bibliography](REFERENCES.md) — open a numbered record to see its authors, source, and survey sections.
-- [Reference catalog (CSV)](references.csv) — filter the 150 records by year, chapter, method category, or availability of a code or project link.
+- [Dataset and method references](REFERENCES.md) — open a numbered record to see its authors, source, and relevant survey sections.
+- [Reference catalog (CSV)](references.csv) — filter the 118 records by year, section, method category, or availability of a code or project link.
 - [Standalone method index](METHODS.md) · [Standalone dataset table](DATASETS.md).
 
 <a name="edition-and-corrections"></a>
@@ -283,4 +266,4 @@ The chapter index includes the background, dataset, and open-challenge papers al
 
 To suggest an author-released implementation or correct a record, open an issue with the survey reference number and source URL.
 
-The organization of the dataset, method, and evaluation tables was inspired by [IVIF Zoo](https://github.com/RollingPlain/IVIF_ZOO).
+The organization of the dataset and method tables was inspired by [IVIF Zoo](https://github.com/RollingPlain/IVIF_ZOO).
