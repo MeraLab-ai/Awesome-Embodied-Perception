@@ -7,8 +7,6 @@ Datasets and methods for embodied perception across modalities, time, and agents
 
 [Datasets](#datasets) · [Methods](#methods)
 
-![Counts of method papers by publication year and category, from 2017 to 2026.](method-timeline.png)
-
 ## Latest update
 
 **18 November 2026** · The catalog includes 15 datasets and 118 references. The tables cover 100 method papers, including 93 from Figure 2 and seven additional papers discussed in the text.
