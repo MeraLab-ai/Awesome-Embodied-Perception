@@ -2,11 +2,11 @@
 
 [Overview](README.md) · [References](REFERENCES.md)
 
-This index covers the datasets in §2.3 and methods in §§3–6. References are grouped by where the survey cites them. Additional Figure 2 entries are shown under their figure category, separately from the text citations. A paper can occur in several sections.
+References are grouped by the dataset or method topic in which the survey cites them. Additional Figure 2 entries are shown under their figure category, separately from the text citations. A paper can occur in several sections.
 
 <a name="sec-2-3"></a>
 
-### 2.3. Datasets
+## Datasets
 
 [Compare the datasets and open their project pages](DATASETS.md).
 
@@ -29,11 +29,11 @@ This index covers the datasets in §2.3 and methods in §§3–6. References are
 
 <a name="sec-3"></a>
 
-## 3. Multi-modal Fusion Methods
+## Multi-modal Fusion Methods
 
 <a name="sec-3-1"></a>
 
-### 3.1. Point-level Fusion
+### Point-level Fusion
 
 [Browse the methods in this Figure 2 category](METHODS.md#sec-3-1).
 
@@ -56,7 +56,7 @@ This index covers the datasets in §2.3 and methods in §§3–6. References are
 
 <a name="sec-3-2"></a>
 
-### 3.2. Voxel-level Fusion
+### Voxel-level Fusion
 
 [Browse the methods in this Figure 2 category](METHODS.md#sec-3-2).
 
@@ -80,7 +80,7 @@ This index covers the datasets in §2.3 and methods in §§3–6. References are
 
 <a name="sec-3-3"></a>
 
-### 3.3. Region-level Fusion
+### Region-level Fusion
 
 [Browse the methods in this Figure 2 category](METHODS.md#sec-3-3).
 
@@ -101,7 +101,7 @@ This index covers the datasets in §2.3 and methods in §§3–6. References are
 
 <a name="sec-3-4"></a>
 
-### 3.4. Multi-level Fusion
+### Multi-level Fusion
 
 [Browse the methods in this Figure 2 category](METHODS.md#sec-3-4).
 
@@ -124,11 +124,11 @@ This index covers the datasets in §2.3 and methods in §§3–6. References are
 
 <a name="sec-4"></a>
 
-## 4. Multi-time Fusion Methods
+## Multi-time Fusion Methods
 
 <a name="sec-4-1"></a>
 
-### 4.1. Object-Level Temporal Fusion
+### Object-Level Temporal Fusion
 
 [Browse the methods in this Figure 2 category](METHODS.md#sec-4-1).
 
@@ -142,7 +142,7 @@ This index covers the datasets in §2.3 and methods in §§3–6. References are
 
 <a name="sec-4-2"></a>
 
-### 4.2. Scene-Level Temporal Fusion
+### Scene-Level Temporal Fusion
 
 [Browse the methods in this Figure 2 category](METHODS.md#sec-4-2).
 
@@ -162,7 +162,7 @@ This index covers the datasets in §2.3 and methods in §§3–6. References are
 
 <a name="sec-4-3"></a>
 
-### 4.3. Object–Scene Temporal Fusion
+### Object–Scene Temporal Fusion
 
 [Browse the methods in this Figure 2 category](METHODS.md#sec-4-3).
 
@@ -177,11 +177,11 @@ This index covers the datasets in §2.3 and methods in §§3–6. References are
 
 <a name="sec-5"></a>
 
-## 5. Multi-agent Fusion Methods
+## Multi-agent Fusion Methods
 
 <a name="sec-5-1"></a>
 
-### 5.1. Collaborative Fusion
+### Collaborative Fusion
 
 [Browse the methods in this Figure 2 category](METHODS.md#sec-5-1).
 
@@ -196,7 +196,7 @@ This index covers the datasets in §2.3 and methods in §§3–6. References are
 
 <a name="sec-5-2"></a>
 
-### 5.2. Agent-to-Agent Communication
+### Agent-to-Agent Communication
 
 [Browse the methods in this Figure 2 category](METHODS.md#sec-5-2).
 
@@ -210,11 +210,11 @@ This index covers the datasets in §2.3 and methods in §§3–6. References are
 
 <a name="sec-6"></a>
 
-## 6. LLM-Based Multi-Sensor Fusion
+## LLM-Based Multi-Sensor Fusion
 
 <a name="sec-6-1"></a>
 
-### 6.1. Vision–Language Models
+### Vision–Language Models
 
 [Browse the methods in this Figure 2 category](METHODS.md#sec-6-1).
 
@@ -225,7 +225,7 @@ This index covers the datasets in §2.3 and methods in §§3–6. References are
 
 <a name="sec-6-2"></a>
 
-### 6.2. LLMs with Other Sensor Modalities
+### LLMs with Other Sensor Modalities
 
 [Browse the methods in this Figure 2 category](METHODS.md#sec-6-2).
 

@@ -3,15 +3,15 @@
 **A Survey of Embodied Perception across Modalities, Time, and Agents**  
 Shulan Ruan, Zhibo Zhang, Rongwei Wang, Xuchen Shen, Huijie Liu, Yu Liu, and You He
 
-Datasets and methods accompanying the survey, organized by its dataset section (§2.3) and method chapters (§§3–6).
+Datasets and methods for embodied perception across modalities, time, and agents.
 
-[Datasets](#datasets) · [Methods](#methods) · [Papers by section](#chapters) · [References](#resources)
+[Datasets](#datasets) · [Methods](#methods)
 
 ![Counts of Figure 2 methods by publication year and survey category, from 2017 to 2026.](method-timeline.png)
 
 ## Latest update
 
-**17 November 2026** · The catalog includes 15 datasets and 118 references associated with §2.3 and §§3–6. The method tables cover the 93 representative works in Figure 2. Original manuscript reference numbers are preserved.
+**18 November 2026** · The catalog includes 15 datasets and 118 references. The method tables cover the 93 representative works in Figure 2. Original manuscript reference numbers are preserved.
 
 <a name="methods-nav"></a>
 
@@ -29,30 +29,23 @@ Datasets and methods accompanying the survey, organized by its dataset section (
 
 Each dataset name links to its project. Scale refers to the subset or release summarized in the survey, with the unit shown for each row.
 
-### Road driving
-
-| Dataset | Sensor streams | Setting | Scale | Ref. |
-| --- | --- | --- | --- | --- |
-| [KITTI](https://www.cvlibs.net/datasets/kitti/) | LiDAR, camera | urban, rural, highway | 14,999 samples | [114](REFERENCES.md#ref-114) |
-| [nuScenes](https://www.nuscenes.org/) | LiDAR, radar, camera | urban | 40K keyframes | [115](REFERENCES.md#ref-115) |
-| [Waymo Open](https://waymo.com/open/about/) | LiDAR, camera | urban, suburban | 1,150 scenes | [116](REFERENCES.md#ref-116) |
-| [Cityscapes 3D](https://www.cityscapes-dataset.com/) | camera | urban | 5K images | [117](REFERENCES.md#ref-117), [118](REFERENCES.md#ref-118) |
-| [Argoverse](https://www.argoverse.org/av1.html) | LiDAR, camera | urban | 113 segments | [119](REFERENCES.md#ref-119) |
-| [A\*3D](https://github.com/I2RDL2/ASTAR-3D) | LiDAR, camera | urban, residential, highway | 39,179 frames | [120](REFERENCES.md#ref-120) |
-| [ApolloScape](https://apolloscapeauto.github.io/dataset-api/) | camera, LiDAR-derived depth | urban | 143,906 images | [121](REFERENCES.md#ref-121) |
-
-### Ground robots, aerial platforms and surface vessels
-
-| Dataset | Sensor streams | Setting | Scale | Ref. |
-| --- | --- | --- | --- | --- |
-| [M2DGR](https://github.com/SJTU-ViSYS/M2DGR) | LiDAR, camera, thermal infrared, event camera, IMU | indoor, outdoor | 36 sequences | [113](REFERENCES.md#ref-113) |
-| [MID-1K](https://github.com/kennedyk1/MID-1K) | camera, thermal infrared, LiDAR-derived depth | indoor | 1,100 samples | [112](REFERENCES.md#ref-112) |
-| [RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D) | LiDAR, camera, IMU | off-road | 13,556 scans | [122](REFERENCES.md#ref-122) |
-| [M3ED](https://m3ed.io/) | LiDAR, camera, event camera, IMU | UAV, quadruped | 40 sequences | [123](REFERENCES.md#ref-123) |
-| [SubT-MRS](https://superodometry.com/datasets) | LiDAR, camera, thermal infrared, IMU | aerial, legged, wheeled | > 30 scenes | [124](REFERENCES.md#ref-124) |
-| [UAVScenes](https://github.com/sijieaaa/UAVScenes) | LiDAR, camera | UAV (outdoor) | 120K pairs | [125](REFERENCES.md#ref-125) |
-| [Viking Hill](https://github.com/RNP-lab/viking_hill_radar_lidar_camera_dataset) | LiDAR, radar, camera, IMU | forest | 2 sessions | [126](REFERENCES.md#ref-126) |
-| [WaterScenes](https://waterscenes.github.io/) | radar, camera, IMU | rivers, lakes, canals, moats | 54,120 samples | [8](REFERENCES.md#ref-008) |
+| Dataset | Platform | Sensor streams | Setting | Scale | Ref. |
+| --- | --- | --- | --- | --- | --- |
+| [KITTI](https://www.cvlibs.net/datasets/kitti/) | Road vehicle | LiDAR, camera | urban, rural, highway | 14,999 samples | [114](REFERENCES.md#ref-114) |
+| [nuScenes](https://www.nuscenes.org/) | Road vehicle | LiDAR, radar, camera | urban | 40K keyframes | [115](REFERENCES.md#ref-115) |
+| [Waymo Open](https://waymo.com/open/about/) | Road vehicle | LiDAR, camera | urban, suburban | 1,150 scenes | [116](REFERENCES.md#ref-116) |
+| [Cityscapes 3D](https://www.cityscapes-dataset.com/) | Road vehicle | camera | urban | 5K images | [117](REFERENCES.md#ref-117), [118](REFERENCES.md#ref-118) |
+| [Argoverse](https://www.argoverse.org/av1.html) | Road vehicle | LiDAR, camera | urban | 113 segments | [119](REFERENCES.md#ref-119) |
+| [A\*3D](https://github.com/I2RDL2/ASTAR-3D) | Road vehicle | LiDAR, camera | urban, residential, highway | 39,179 frames | [120](REFERENCES.md#ref-120) |
+| [ApolloScape](https://apolloscapeauto.github.io/dataset-api/) | Road vehicle | camera, LiDAR-derived depth | urban | 143,906 images | [121](REFERENCES.md#ref-121) |
+| [M2DGR](https://github.com/SJTU-ViSYS/M2DGR) | Ground robot | LiDAR, camera, thermal infrared, event camera, IMU | indoor, outdoor | 36 sequences | [113](REFERENCES.md#ref-113) |
+| [MID-1K](https://github.com/kennedyk1/MID-1K) | Ground robot | camera, thermal infrared, LiDAR-derived depth | indoor | 1,100 samples | [112](REFERENCES.md#ref-112) |
+| [RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D) | Ground robot | LiDAR, camera, IMU | off-road | 13,556 scans | [122](REFERENCES.md#ref-122) |
+| [M3ED](https://m3ed.io/) | Wheeled vehicle, quadruped, UAV | LiDAR, camera, event camera, IMU | UAV, quadruped | 40 sequences | [123](REFERENCES.md#ref-123) |
+| [SubT-MRS](https://superodometry.com/datasets) | Wheeled, legged and aerial robots | LiDAR, camera, thermal infrared, IMU | aerial, legged, wheeled | > 30 scenes | [124](REFERENCES.md#ref-124) |
+| [UAVScenes](https://github.com/sijieaaa/UAVScenes) | UAV | LiDAR, camera | UAV (outdoor) | 120K pairs | [125](REFERENCES.md#ref-125) |
+| [Viking Hill](https://github.com/RNP-lab/viking_hill_radar_lidar_camera_dataset) | Ground robot | LiDAR, radar, camera, IMU | forest | 2 sessions | [126](REFERENCES.md#ref-126) |
+| [WaterScenes](https://waterscenes.github.io/) | Surface vessel | radar, camera, IMU | rivers, lakes, canals, moats | 54,120 samples | [8](REFERENCES.md#ref-008) |
 
 <a name="explore-the-methods"></a>
 
@@ -60,11 +53,11 @@ Each dataset name links to its project. Scale refers to the subset or release su
 
 Method names and group assignments follow Figure 2. Each paper title is paired with its venue and year as cited. The resource column links to the paper and, where verified, author code or a project page. ConceptGraphs appears in three groups. The two Hydra entries correspond to distinct papers. The [section index](CHAPTERS.md) also includes nine additional references discussed in the method chapters.
 
-### §3 · Across modalities
+### Across modalities
 
 <a name="methods-3-1"></a>
 
-#### §3.1 · Point-level Fusion
+#### Point-level Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -80,7 +73,7 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 
 <a name="methods-3-2"></a>
 
-#### §3.2 · Voxel-level Fusion
+#### Voxel-level Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -98,7 +91,7 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 
 <a name="methods-3-3"></a>
 
-#### §3.3 · Region-level Fusion
+#### Region-level Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -114,7 +107,7 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 
 <a name="methods-3-4"></a>
 
-#### §3.4 · Multi-level Fusion
+#### Multi-level Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -130,11 +123,11 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 | **CSSA** | Multimodal object detection by channel switching and spatial attention | CVPR · 2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/html/Cao_Multimodal_Object_Detection_by_Channel_Switching_and_Spatial_Attention_CVPRW_2023_paper.html) | [56](REFERENCES.md#ref-056) |
 | **Fusion-Mamba** | Fusion-mamba for cross-modality object detection | arXiv · 2024 | [Paper](https://arxiv.org/abs/2404.09146) · [Code](https://github.com/EhanDong/Fusion-Mamba) | [57](REFERENCES.md#ref-057) |
 
-### §4 · Across time
+### Across time
 
 <a name="methods-4-1"></a>
 
-#### §4.1 · Object-Level Temporal Fusion
+#### Object-Level Temporal Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -148,7 +141,7 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 
 <a name="methods-4-2"></a>
 
-#### §4.2 · Scene-Level Temporal Fusion
+#### Scene-Level Temporal Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -168,7 +161,7 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 
 <a name="methods-4-3"></a>
 
-#### §4.3 · Object–Scene Temporal Fusion
+#### Object–Scene Temporal Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -178,11 +171,11 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 | **Hydra** | Hydra: A real-time spatial perception system for 3D scene graph construction and optimization | arXiv · 2022 | [Paper](https://arxiv.org/abs/2201.13360) · [Code](https://github.com/MIT-SPARK/Hydra) | [79](REFERENCES.md#ref-079) |
 | **Khronos** | Khronos: A unified approach for spatio-temporal metric-semantic slam in dynamic environments | arXiv · 2024 | [Paper](https://arxiv.org/abs/2402.13817) · [Code](https://github.com/MIT-SPARK/Khronos) | [80](REFERENCES.md#ref-080) |
 
-### §5 · Across agents
+### Across agents
 
 <a name="methods-5-1"></a>
 
-#### §5.1 · Collaborative Fusion
+#### Collaborative Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -196,7 +189,7 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 
 <a name="methods-5-2"></a>
 
-#### §5.2 · Agent-to-Agent Communication
+#### Agent-to-Agent Communication
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -208,11 +201,11 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 | **MR-COGraphs** | MR-COGraphs: Communication-efficient multi-robot open-vocabulary mapping system via 3D scene graphs | IEEE RA-L · 2025 | [Paper](https://doi.org/10.1109/LRA.2025.3561569) · [Project](https://github.com/efc-robot/MR-COGraphs) | [93](REFERENCES.md#ref-093) |
 | **MACP** | MACP: Efficient model adaptation for cooperative perception | WACV · 2024 | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Ma_MACP_Efficient_Model_Adaptation_for_Cooperative_Perception_WACV_2024_paper.pdf) · [Code](https://github.com/PurdueDigitalTwin/MACP) | [94](REFERENCES.md#ref-094) |
 
-### §6 · Language and perception
+### Language and perception
 
 <a name="methods-6-1"></a>
 
-#### §6.1 · Vision–Language Models
+#### Vision–Language Models
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -223,7 +216,7 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 
 <a name="methods-6-2"></a>
 
-#### §6.2 · LLMs with Other Sensor Modalities
+#### LLMs with Other Sensor Modalities
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -239,26 +232,6 @@ Method names and group assignments follow Figure 2. Each paper title is paired w
 | **Thermo-VL** | Thermo-VL: Extending Vision-Language Models to Thermal Infrared Perception | arXiv · 2026 | [Paper](https://arxiv.org/abs/2605.21882) · [Project](https://thusharakart.github.io/Thermo-VL) | [108](REFERENCES.md#ref-108) |
 | **FireMM-IR** | FireMM-IR: An Infrared-Enhanced Multi-Modal Large Language Model for Comprehensive Scene Understanding in Remote Sensing Forest Fire Monitoring | Sensors · 2026 | [Paper](https://doi.org/10.3390/s26020390) | [109](REFERENCES.md#ref-109) |
 | **Wang et al.** | Infrared and visible image fusion driven by multimodal large language models | Frontiers in Physics · 2025 | [Paper](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1599937/full) | [110](REFERENCES.md#ref-110) |
-
-<a name="chapters"></a>
-
-## Papers by section
-
-Browse the dataset references and the papers cited in each method chapter.
-
-- [§2.3 · Datasets](CHAPTERS.md#sec-2-3)
-- [§3 · Multi-modal Fusion Methods](CHAPTERS.md#sec-3)
-- [§4 · Multi-time Fusion Methods](CHAPTERS.md#sec-4)
-- [§5 · Multi-agent Fusion Methods](CHAPTERS.md#sec-5)
-- [§6 · LLM-Based Multi-Sensor Fusion](CHAPTERS.md#sec-6)
-
-<a name="resources"></a>
-
-## Resource library
-
-- [Dataset and method references](REFERENCES.md) — open a numbered record to see its authors, source, and relevant survey sections.
-- [Reference catalog (CSV)](references.csv) — filter the 118 records by year, section, method category, or availability of a code or project link.
-- [Standalone method index](METHODS.md) · [Standalone dataset table](DATASETS.md).
 
 <a name="edition-and-corrections"></a>
 

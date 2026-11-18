@@ -4,21 +4,21 @@
 
 The survey groups 93 works into 11 categories. ConceptGraphs appears under region-level, object-level temporal, and object–scene temporal fusion. The two entries named Hydra refer to different papers.
 
-- [3.1. Point-level Fusion](#sec-3-1)
-- [3.2. Voxel-level Fusion](#sec-3-2)
-- [3.3. Region-level Fusion](#sec-3-3)
-- [3.4. Multi-level Fusion](#sec-3-4)
-- [4.1. Object-Level Temporal Fusion](#sec-4-1)
-- [4.2. Scene-Level Temporal Fusion](#sec-4-2)
-- [4.3. Object–Scene Temporal Fusion](#sec-4-3)
-- [5.1. Collaborative Fusion](#sec-5-1)
-- [5.2. Agent-to-Agent Communication](#sec-5-2)
-- [6.1. Vision–Language Models](#sec-6-1)
-- [6.2. LLMs with Other Sensor Modalities](#sec-6-2)
+- [Point-level Fusion](#sec-3-1)
+- [Voxel-level Fusion](#sec-3-2)
+- [Region-level Fusion](#sec-3-3)
+- [Multi-level Fusion](#sec-3-4)
+- [Object-Level Temporal Fusion](#sec-4-1)
+- [Scene-Level Temporal Fusion](#sec-4-2)
+- [Object–Scene Temporal Fusion](#sec-4-3)
+- [Collaborative Fusion](#sec-5-1)
+- [Agent-to-Agent Communication](#sec-5-2)
+- [Vision–Language Models](#sec-6-1)
+- [LLMs with Other Sensor Modalities](#sec-6-2)
 
 <a name="sec-3-1"></a>
 
-## 3.1. Point-level Fusion
+## Point-level Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -34,7 +34,7 @@ The survey groups 93 works into 11 categories. ConceptGraphs appears under regio
 
 <a name="sec-3-2"></a>
 
-## 3.2. Voxel-level Fusion
+## Voxel-level Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -52,7 +52,7 @@ The survey groups 93 works into 11 categories. ConceptGraphs appears under regio
 
 <a name="sec-3-3"></a>
 
-## 3.3. Region-level Fusion
+## Region-level Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -68,7 +68,7 @@ The survey groups 93 works into 11 categories. ConceptGraphs appears under regio
 
 <a name="sec-3-4"></a>
 
-## 3.4. Multi-level Fusion
+## Multi-level Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -86,7 +86,7 @@ The survey groups 93 works into 11 categories. ConceptGraphs appears under regio
 
 <a name="sec-4-1"></a>
 
-## 4.1. Object-Level Temporal Fusion
+## Object-Level Temporal Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -100,7 +100,7 @@ The survey groups 93 works into 11 categories. ConceptGraphs appears under regio
 
 <a name="sec-4-2"></a>
 
-## 4.2. Scene-Level Temporal Fusion
+## Scene-Level Temporal Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -120,7 +120,7 @@ The survey groups 93 works into 11 categories. ConceptGraphs appears under regio
 
 <a name="sec-4-3"></a>
 
-## 4.3. Object–Scene Temporal Fusion
+## Object–Scene Temporal Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -132,7 +132,7 @@ The survey groups 93 works into 11 categories. ConceptGraphs appears under regio
 
 <a name="sec-5-1"></a>
 
-## 5.1. Collaborative Fusion
+## Collaborative Fusion
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -146,7 +146,7 @@ The survey groups 93 works into 11 categories. ConceptGraphs appears under regio
 
 <a name="sec-5-2"></a>
 
-## 5.2. Agent-to-Agent Communication
+## Agent-to-Agent Communication
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -160,7 +160,7 @@ The survey groups 93 works into 11 categories. ConceptGraphs appears under regio
 
 <a name="sec-6-1"></a>
 
-## 6.1. Vision–Language Models
+## Vision–Language Models
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
@@ -171,7 +171,7 @@ The survey groups 93 works into 11 categories. ConceptGraphs appears under regio
 
 <a name="sec-6-2"></a>
 
-## 6.2. LLMs with Other Sensor Modalities
+## LLMs with Other Sensor Modalities
 
 | Method | Paper title | Venue · year as cited | Resources | Ref. |
 | --- | --- | --- | --- | ---: |
