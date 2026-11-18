@@ -35,7 +35,7 @@ References are grouped by the dataset or method topic in which the survey cites 
 
 ### Point-level Fusion
 
-[Browse the methods in this Figure 2 category](METHODS.md#sec-3-1).
+[Browse the methods in this category](METHODS.md#sec-3-1).
 
 - [18](REFERENCES.md#ref-018) · **Frustum PointNets** · Frustum pointnets for 3d object detection from rgb-d data · [Paper](https://doi.org/10.1109/cvpr.2018.00102) · [Code](https://github.com/charlesq34/frustum-pointnets)
 - [19](REFERENCES.md#ref-019) · **PointFusion** · Pointfusion: Deep sensor fusion for 3d bounding box estimation · [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Xu_PointFusion_Deep_Sensor_CVPR_2018_paper.html)
@@ -47,7 +47,7 @@ References are grouped by the dataset or method topic in which the survey cites 
 - [29](REFERENCES.md#ref-029) · **PointAugmenting** · Pointaugmenting: Cross-modal augmentation for 3d object detection · [Paper](https://doi.org/10.1109/cvpr46437.2021.01162) · [Code](https://github.com/VISION-SJTU/PointAugmenting)
 - [127](REFERENCES.md#ref-127) · Pointnet: Deep learning on point sets for 3d classification and segmentation · [Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Qi_PointNet_Deep_Learning_CVPR_2017_paper.html)
 - [128](REFERENCES.md#ref-128) · Pointnet++: Deep hierarchical feature learning on point sets in a metric space · [Paper](https://papers.nips.cc/paper_files/paper/2017/hash/d8bf84be3800d12f74d8b05e9b89836f-Abstract.html)
-- [129](REFERENCES.md#ref-129) · A multi-sensor fusion approach combined with RandLA-Net for large-scale point cloud segmentation in power grid scenario · [Paper](https://doi.org/10.3390/s25113350)
+- [129](REFERENCES.md#ref-129) · **Li et al. (power-grid segmentation)** · A multi-sensor fusion approach combined with RandLA-Net for large-scale point cloud segmentation in power grid scenario · [Paper](https://doi.org/10.3390/s25113350)
 
 **Additional entries in this Figure 2 category**
 
@@ -58,7 +58,7 @@ References are grouped by the dataset or method topic in which the survey cites 
 
 ### Voxel-level Fusion
 
-[Browse the methods in this Figure 2 category](METHODS.md#sec-3-2).
+[Browse the methods in this category](METHODS.md#sec-3-2).
 
 - [25](REFERENCES.md#ref-025) · **DeepFusion** · Deepfusion: Lidar-camera deep fusion for multi-modal 3d object detection · [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_DeepFusion_Lidar-Camera_Deep_Fusion_for_Multi-Modal_3D_Object_Detection_CVPR_2022_paper.html) · [Code](https://github.com/tensorflow/lingvo/blob/master/lingvo/tasks/car/deep_fusion.py)
 - [26](REFERENCES.md#ref-026) · **GraphAlign** · Graphalign: Enhancing accurate feature alignment by graph matching for multi-modal 3d object detection · [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Song_GraphAlign_Enhancing_Accurate_Feature_Alignment_by_Graph_matching_for_Multi-Modal_ICCV_2023_paper.html)
@@ -70,7 +70,7 @@ References are grouped by the dataset or method topic in which the survey cites 
 - [34](REFERENCES.md#ref-034) · **VoxelNeXtFusion** · Voxelnextfusion: A simple, unified and effective voxel fusion framework for multi-modal 3d object detection · [Paper](https://arxiv.org/abs/2401.02702)
 - [35](REFERENCES.md#ref-035) · **UVTR** · Unifying voxel-based representation with transformer for 3d object detection · [Paper](https://papers.nips.cc/paper_files/paper/2022/hash/752df938681b2cf15e5fc9689f0bcf3a-Abstract-Conference.html) · [Code](https://github.com/JIA-Lab-research/UVTR)
 - [36](REFERENCES.md#ref-036) · **HMFI** · Homogeneous multi-modal feature fusion and interaction for 3d object detection · [Paper](https://doi.org/10.1007/978-3-031-19839-7_40)
-- [130](REFERENCES.md#ref-130) · Real-time metric-semantic mapping for autonomous navigation in outdoor environments · [Paper](https://doi.org/10.1109/TASE.2024.3429280)
+- [130](REFERENCES.md#ref-130) · **Jiao et al. (metric-semantic mapping)** · Real-time metric-semantic mapping for autonomous navigation in outdoor environments · [Paper](https://doi.org/10.1109/TASE.2024.3429280)
 
 **Additional entries in this Figure 2 category**
 
@@ -82,7 +82,7 @@ References are grouped by the dataset or method topic in which the survey cites 
 
 ### Region-level Fusion
 
-[Browse the methods in this Figure 2 category](METHODS.md#sec-3-3).
+[Browse the methods in this category](METHODS.md#sec-3-3).
 
 - [27](REFERENCES.md#ref-027) · **CenterFusion** · CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection · [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Nabati_CenterFusion_Center-Based_Radar_and_Camera_Fusion_for_3D_Object_Detection_WACV_2021_paper.pdf) · [Code](https://github.com/mrnabati/CenterFusion)
 - [37](REFERENCES.md#ref-037) · **SFD** · Sparse fuse dense: Towards high quality 3d detection with depth completion · [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Sparse_Fuse_Dense_Towards_High_Quality_3D_Detection_With_Depth_CVPR_2022_paper.html) · [Code](https://github.com/LittlePey/SFD)
@@ -103,7 +103,7 @@ References are grouped by the dataset or method topic in which the survey cites 
 
 ### Multi-level Fusion
 
-[Browse the methods in this Figure 2 category](METHODS.md#sec-3-4).
+[Browse the methods in this category](METHODS.md#sec-3-4).
 
 - [46](REFERENCES.md#ref-046) · **RSDet** · Removal and selection: Improving RGB-infrared object detection via coarse-to-fine fusion · [Paper](https://arxiv.org/abs/2401.10731) · [Code](https://github.com/Zhao-Tian-yi/RSDet)
 - [47](REFERENCES.md#ref-047) · **MMF** · Multi-task multi-sensor fusion for 3d object detection · [Paper](https://doi.org/10.1109/cvpr.2019.00752)
@@ -117,10 +117,10 @@ References are grouped by the dataset or method topic in which the survey cites 
 - [55](REFERENCES.md#ref-055) · **SeaDATE** · SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection · [Paper](https://doi.org/10.1109/tcsvt.2024.3520318)
 - [56](REFERENCES.md#ref-056) · **CSSA** · Multimodal object detection by channel switching and spatial attention · [Paper](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/html/Cao_Multimodal_Object_Detection_by_Channel_Switching_and_Spatial_Attention_CVPRW_2023_paper.html)
 - [57](REFERENCES.md#ref-057) · **Fusion-Mamba** · Fusion-mamba for cross-modality object detection · [Paper](https://arxiv.org/abs/2404.09146) · [Code](https://github.com/EhanDong/Fusion-Mamba)
-- [131](REFERENCES.md#ref-131) · Deep continuous fusion for multi-sensor 3d object detection · [Paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.html)
-- [132](REFERENCES.md#ref-132) · Cross-modality 3d object detection · [Paper](https://doi.org/10.1109/wacv48630.2021.00382)
-- [133](REFERENCES.md#ref-133) · Mvx-net: Multimodal voxelnet for 3d object detection · [Paper](https://arxiv.org/abs/1904.01649)
-- [134](REFERENCES.md#ref-134) · A deep-learning method based on the multistage fusion of radar and camera in uav obstacle avoidance · [Paper](https://doi.org/10.1109/TAES.2024.3406495)
+- [131](REFERENCES.md#ref-131) · **Deep Continuous Fusion** · Deep continuous fusion for multi-sensor 3d object detection · [Paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.html)
+- [132](REFERENCES.md#ref-132) · **Cross-Modality 3D Object Detection** · Cross-modality 3d object detection · [Paper](https://doi.org/10.1109/wacv48630.2021.00382)
+- [133](REFERENCES.md#ref-133) · **MVX-Net** · Mvx-net: Multimodal voxelnet for 3d object detection · [Paper](https://arxiv.org/abs/1904.01649)
+- [134](REFERENCES.md#ref-134) · **Wang et al. (radar-camera obstacle avoidance)** · A deep-learning method based on the multistage fusion of radar and camera in uav obstacle avoidance · [Paper](https://doi.org/10.1109/TAES.2024.3406495)
 
 <a name="sec-4"></a>
 
@@ -130,7 +130,7 @@ References are grouped by the dataset or method topic in which the survey cites 
 
 ### Object-Level Temporal Fusion
 
-[Browse the methods in this Figure 2 category](METHODS.md#sec-4-1).
+[Browse the methods in this category](METHODS.md#sec-4-1).
 
 - [41](REFERENCES.md#ref-041) · **ConceptGraphs** · Conceptgraphs: Open-vocabulary 3d scene graphs for perception and planning · [Paper](https://doi.org/10.1109/ICRA57147.2024.10610243) · [Code](https://github.com/concept-graphs/concept-graphs)
 - [58](REFERENCES.md#ref-058) · **StreamPETR** · Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection · [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Exploring_Object-Centric_Temporal_Modeling_for_Efficient_Multi-View_3D_Object_Detection_ICCV_2023_paper.html) · [Code](https://github.com/exiawsh/StreamPETR)
@@ -144,7 +144,7 @@ References are grouped by the dataset or method topic in which the survey cites 
 
 ### Scene-Level Temporal Fusion
 
-[Browse the methods in this Figure 2 category](METHODS.md#sec-4-2).
+[Browse the methods in this category](METHODS.md#sec-4-2).
 
 - [64](REFERENCES.md#ref-064) · **Q-TempFusion** · Q-TempFusion: Quantization-Aware Temporal Multi-Sensor Fusion on Bird's-Eye View Representation · [Paper](https://openaccess.thecvf.com/content/WACV2025/html/Yu_Q-TempFusion_Quantization-Aware_Temporal_Multi-Sensor_Fusion_on_Birds-Eye_View_Representation_WACV_2025_paper.html)
 - [65](REFERENCES.md#ref-065) · **CRT-Fusion** · CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection · [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c49a28241640407b23bba8f2495f4bc9-Abstract-Conference.html) · [Code](https://github.com/mjseong0414/CRT-Fusion)
@@ -164,7 +164,7 @@ References are grouped by the dataset or method topic in which the survey cites 
 
 ### Object–Scene Temporal Fusion
 
-[Browse the methods in this Figure 2 category](METHODS.md#sec-4-3).
+[Browse the methods in this category](METHODS.md#sec-4-3).
 
 - [41](REFERENCES.md#ref-041) · **ConceptGraphs** · Conceptgraphs: Open-vocabulary 3d scene graphs for perception and planning · [Paper](https://doi.org/10.1109/ICRA57147.2024.10610243) · [Code](https://github.com/concept-graphs/concept-graphs)
 - [77](REFERENCES.md#ref-077) · **DovSG** · Dynamic open-vocabulary 3d scene graphs for long-term language-guided mobile manipulation · [Paper](https://doi.org/10.1109/LRA.2025.3547643) · [Code](https://github.com/BJHYZJ/DovSG)
@@ -183,7 +183,7 @@ References are grouped by the dataset or method topic in which the survey cites 
 
 ### Collaborative Fusion
 
-[Browse the methods in this Figure 2 category](METHODS.md#sec-5-1).
+[Browse the methods in this category](METHODS.md#sec-5-1).
 
 - [81](REFERENCES.md#ref-081) · **V2VNet** · V2vnet: Vehicle-to-vehicle communication for joint perception and prediction · [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470596.pdf)
 - [82](REFERENCES.md#ref-082) · **CoBEVT** · Cobevt: Cooperative bird's eye view semantic segmentation with sparse transformers · [Paper](https://arxiv.org/abs/2207.02202) · [Code](https://github.com/DerrickXuNu/CoBEVT)
@@ -192,13 +192,13 @@ References are grouped by the dataset or method topic in which the survey cites 
 - [85](REFERENCES.md#ref-085) · **HM-ViT** · HM-ViT: Hetero-modal vehicle-to-vehicle cooperative perception with vision transformer · [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Xiang_HM-ViT_Hetero-Modal_Vehicle-to-Vehicle_Cooperative_Perception_with_Vision_Transformer_ICCV_2023_paper.html) · [Code](https://github.com/XHwind/HM-ViT)
 - [86](REFERENCES.md#ref-086) · **MCOP** · MCOP: Multi-UAV Collaborative Occupancy Prediction · [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Lin_MCOP_Multi-UAV_Collaborative_Occupancy_Prediction_ICCV_2025_paper.html)
 - [87](REFERENCES.md#ref-087) · **MRCNet** · Multi-agent Collaborative Perception via Motion-aware Robust Communication Network · [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hong_Multi-agent_Collaborative_Perception_via_Motion-aware_Robust_Communication_Network_CVPR_2024_paper.html)
-- [135](REFERENCES.md#ref-135) · Visual, spatial, geometric-preserved place recognition for cross-view and cross-modal collaborative perception · [Paper](https://doi.org/10.1109/IROS55552.2023.10341898)
+- [135](REFERENCES.md#ref-135) · **Gao et al. (cross-view place recognition)** · Visual, spatial, geometric-preserved place recognition for cross-view and cross-modal collaborative perception · [Paper](https://doi.org/10.1109/IROS55552.2023.10341898)
 
 <a name="sec-5-2"></a>
 
 ### Agent-to-Agent Communication
 
-[Browse the methods in this Figure 2 category](METHODS.md#sec-5-2).
+[Browse the methods in this category](METHODS.md#sec-5-2).
 
 - [88](REFERENCES.md#ref-088) · **When2com** · When2com: Multi-agent perception via communication graph grouping · [Paper](https://doi.org/10.1109/CVPR42600.2020.00416) · [Code](https://github.com/GT-RIPL/MultiAgentPerception)
 - [89](REFERENCES.md#ref-089) · **Who2com** · Who2com: Collaborative perception via learnable handshake communication · [Paper](https://doi.org/10.1109/ICRA40945.2020.9197364) · [Project](https://ycliu93.github.io/projects/multi-agent-perception.html)
@@ -216,7 +216,7 @@ References are grouped by the dataset or method topic in which the survey cites 
 
 ### Vision–Language Models
 
-[Browse the methods in this Figure 2 category](METHODS.md#sec-6-1).
+[Browse the methods in this category](METHODS.md#sec-6-1).
 
 - [95](REFERENCES.md#ref-095) · **SpatialVLM** · Spatialvlm: Endowing vision-language models with spatial reasoning capabilities · [Paper](https://doi.org/10.1109/CVPR52733.2024.01370) · [Project](https://spatial-vlm.github.io/)
 - [96](REFERENCES.md#ref-096) · **RoboPoint** · RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics · [Paper](https://arxiv.org/abs/2406.10721) · [Code](https://github.com/wentaoyuan/RoboPoint)
@@ -227,7 +227,7 @@ References are grouped by the dataset or method topic in which the survey cites 
 
 ### LLMs with Other Sensor Modalities
 
-[Browse the methods in this Figure 2 category](METHODS.md#sec-6-2).
+[Browse the methods in this category](METHODS.md#sec-6-2).
 
 - [99](REFERENCES.md#ref-099) · **LiDAR-LLM** · Lidar-llm: Exploring the potential of large language models for 3d lidar understanding · [Paper](https://ojs.aaai.org/index.php/AAAI/article/download/33001/35156) · [Project](https://sites.google.com/view/lidar-llm)
 - [100](REFERENCES.md#ref-100) · **TOD3Cap** · Tod3cap: Towards 3d dense captioning in outdoor scenes · [Paper](https://doi.org/10.1007/978-3-031-72649-1_21) · [Code](https://github.com/jxbbb/TOD3Cap)

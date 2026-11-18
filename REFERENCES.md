@@ -1,6 +1,6 @@
 # Dataset and method references
 
-[Overview](README.md) · [Section index](CHAPTERS.md) · [Figure 2 methods](METHODS.md) · [Download CSV](references.csv)
+[Overview](README.md) · [Section index](CHAPTERS.md) · [Method tables](METHODS.md) · [Download CSV](references.csv)
 
 These 118 references cover the datasets and methods in the survey, including the works in Figure 2. Numbers follow the 17 November 2026 manuscript and retain gaps where out-of-scope references were omitted. Section links point to the section index. Figure links point to the method categories.
 

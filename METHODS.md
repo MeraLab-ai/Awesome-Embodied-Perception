@@ -1,8 +1,8 @@
-# Methods in Figure 2
+# Methods for embodied perception
 
 [Overview](README.md) · [References](REFERENCES.md) · [All method-chapter papers](CHAPTERS.md#sec-3)
 
-The survey groups 93 works into 11 categories. ConceptGraphs appears under region-level, object-level temporal, and object–scene temporal fusion. The two entries named Hydra refer to different papers.
+The tables cover 100 method papers across 11 categories: 93 from Figure 2 and seven additional papers discussed in the text. ConceptGraphs appears under region-level, object-level temporal, and object–scene temporal fusion. MVX-Net appears under both point-level and voxel-level fusion for its two variants. The two entries named Hydra refer to different papers.
 
 - [Point-level Fusion](#sec-3-1)
 - [Voxel-level Fusion](#sec-3-2)
@@ -32,6 +32,13 @@ The survey groups 93 works into 11 categories. ConceptGraphs appears under regio
 | **DeepFusion** | Deepfusion: Lidar-camera deep fusion for multi-modal 3d object detection | CVPR · 2022 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_DeepFusion_Lidar-Camera_Deep_Fusion_for_Multi-Modal_3D_Object_Detection_CVPR_2022_paper.html) · [Code](https://github.com/tensorflow/lingvo/blob/master/lingvo/tasks/car/deep_fusion.py) | [25](REFERENCES.md#ref-025) |
 | **GraphAlign** | Graphalign: Enhancing accurate feature alignment by graph matching for multi-modal 3d object detection | ICCV · 2023 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Song_GraphAlign_Enhancing_Accurate_Feature_Alignment_by_Graph_matching_for_Multi-Modal_ICCV_2023_paper.html) | [26](REFERENCES.md#ref-026) |
 
+**Additional methods discussed in the text**
+
+| Method | Paper title | Venue · year as cited | Resources | Ref. |
+| --- | --- | --- | --- | ---: |
+| **Li et al. (power-grid segmentation)** | A multi-sensor fusion approach combined with RandLA-Net for large-scale point cloud segmentation in power grid scenario | Sensors · 2025 | [Paper](https://doi.org/10.3390/s25113350) | [129](REFERENCES.md#ref-129) |
+| **MVX-Net (PointFusion variant)** | Mvx-net: Multimodal voxelnet for 3d object detection | ICRA · 2019 | [Paper](https://arxiv.org/abs/1904.01649) | [133](REFERENCES.md#ref-133) |
+
 <a name="sec-3-2"></a>
 
 ## Voxel-level Fusion
@@ -49,6 +56,13 @@ The survey groups 93 works into 11 categories. ConceptGraphs appears under regio
 | **UVTR** | Unifying voxel-based representation with transformer for 3d object detection | NeurIPS · 2022 | [Paper](https://papers.nips.cc/paper_files/paper/2022/hash/752df938681b2cf15e5fc9689f0bcf3a-Abstract-Conference.html) · [Code](https://github.com/JIA-Lab-research/UVTR) | [35](REFERENCES.md#ref-035) |
 | **HMFI** | Homogeneous multi-modal feature fusion and interaction for 3d object detection | ECCV · 2022 | [Paper](https://doi.org/10.1007/978-3-031-19839-7_40) | [36](REFERENCES.md#ref-036) |
 | **SFD** | Sparse fuse dense: Towards high quality 3d detection with depth completion | CVPR · 2022 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Sparse_Fuse_Dense_Towards_High_Quality_3D_Detection_With_Depth_CVPR_2022_paper.html) · [Code](https://github.com/LittlePey/SFD) | [37](REFERENCES.md#ref-037) |
+
+**Additional methods discussed in the text**
+
+| Method | Paper title | Venue · year as cited | Resources | Ref. |
+| --- | --- | --- | --- | ---: |
+| **Jiao et al. (metric-semantic mapping)** | Real-time metric-semantic mapping for autonomous navigation in outdoor environments | IEEE T-ASE · 2024 | [Paper](https://doi.org/10.1109/TASE.2024.3429280) | [130](REFERENCES.md#ref-130) |
+| **MVX-Net (VoxelFusion variant)** | Mvx-net: Multimodal voxelnet for 3d object detection | ICRA · 2019 | [Paper](https://arxiv.org/abs/1904.01649) | [133](REFERENCES.md#ref-133) |
 
 <a name="sec-3-3"></a>
 
@@ -83,6 +97,14 @@ The survey groups 93 works into 11 categories. ConceptGraphs appears under regio
 | **SeaDATE** | SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection | IEEE TCSVT · 2024 | [Paper](https://doi.org/10.1109/tcsvt.2024.3520318) | [55](REFERENCES.md#ref-055) |
 | **CSSA** | Multimodal object detection by channel switching and spatial attention | CVPR · 2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/html/Cao_Multimodal_Object_Detection_by_Channel_Switching_and_Spatial_Attention_CVPRW_2023_paper.html) | [56](REFERENCES.md#ref-056) |
 | **Fusion-Mamba** | Fusion-mamba for cross-modality object detection | arXiv · 2024 | [Paper](https://arxiv.org/abs/2404.09146) · [Code](https://github.com/EhanDong/Fusion-Mamba) | [57](REFERENCES.md#ref-057) |
+
+**Additional methods discussed in the text**
+
+| Method | Paper title | Venue · year as cited | Resources | Ref. |
+| --- | --- | --- | --- | ---: |
+| **Deep Continuous Fusion** | Deep continuous fusion for multi-sensor 3d object detection | ECCV · 2018 | [Paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.html) | [131](REFERENCES.md#ref-131) |
+| **Cross-Modality 3D Object Detection** | Cross-modality 3d object detection | WACV · 2021 | [Paper](https://doi.org/10.1109/wacv48630.2021.00382) | [132](REFERENCES.md#ref-132) |
+| **Wang et al. (radar-camera obstacle avoidance)** | A deep-learning method based on the multistage fusion of radar and camera in uav obstacle avoidance | IEEE TAES · 2024 | [Paper](https://doi.org/10.1109/TAES.2024.3406495) | [134](REFERENCES.md#ref-134) |
 
 <a name="sec-4-1"></a>
 
@@ -143,6 +165,12 @@ The survey groups 93 works into 11 categories. ConceptGraphs appears under regio
 | **HM-ViT** | HM-ViT: Hetero-modal vehicle-to-vehicle cooperative perception with vision transformer | ICCV · 2023 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Xiang_HM-ViT_Hetero-Modal_Vehicle-to-Vehicle_Cooperative_Perception_with_Vision_Transformer_ICCV_2023_paper.html) · [Code](https://github.com/XHwind/HM-ViT) | [85](REFERENCES.md#ref-085) |
 | **MCOP** | MCOP: Multi-UAV Collaborative Occupancy Prediction | ICCV · 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Lin_MCOP_Multi-UAV_Collaborative_Occupancy_Prediction_ICCV_2025_paper.html) | [86](REFERENCES.md#ref-086) |
 | **MRCNet** | Multi-agent Collaborative Perception via Motion-aware Robust Communication Network | CVPR · 2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hong_Multi-agent_Collaborative_Perception_via_Motion-aware_Robust_Communication_Network_CVPR_2024_paper.html) | [87](REFERENCES.md#ref-087) |
+
+**Additional methods discussed in the text**
+
+| Method | Paper title | Venue · year as cited | Resources | Ref. |
+| --- | --- | --- | --- | ---: |
+| **Gao et al. (cross-view place recognition)** | Visual, spatial, geometric-preserved place recognition for cross-view and cross-modal collaborative perception | IROS · 2023 | [Paper](https://doi.org/10.1109/IROS55552.2023.10341898) | [135](REFERENCES.md#ref-135) |
 
 <a name="sec-5-2"></a>
 
